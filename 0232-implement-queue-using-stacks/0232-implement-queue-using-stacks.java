@@ -15,8 +15,8 @@ class MyQueue {
         while(!s1.isEmpty())
         s.push(s1.pop());
 
-        System.out.print(s);
-        System.out.print(s1);
+        // System.out.print(s);
+        // System.out.print(s1);
         
     }
     
