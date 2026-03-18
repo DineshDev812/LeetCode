@@ -14,7 +14,8 @@ class MyStack {
             int u=q.poll();
             q.offer(u);
         }
-           
+            System.out.println(q);
+            System.out.print(n+" ");
         
     }
     
