@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/DineshDev812/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/DineshDev812/LeetCode/tree/master/0010-regular-expression-matching) |
 | [0012-integer-to-roman](https://github.com/DineshDev812/LeetCode/tree/master/0012-integer-to-roman) |
+| [3794-reverse-string-prefix](https://github.com/DineshDev812/LeetCode/tree/master/3794-reverse-string-prefix) |
 ## Sliding Window
 |  |
 | ------- |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/DineshDev812/LeetCode/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/DineshDev812/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0876-middle-of-the-linked-list](https://github.com/DineshDev812/LeetCode/tree/master/0876-middle-of-the-linked-list) |
+| [3794-reverse-string-prefix](https://github.com/DineshDev812/LeetCode/tree/master/3794-reverse-string-prefix) |
 ## Dynamic Programming
 |  |
 | ------- |
