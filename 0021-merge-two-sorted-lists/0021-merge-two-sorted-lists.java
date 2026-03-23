@@ -13,14 +13,6 @@ class Solution {
         ListNode dummy=new ListNode(0);
         ListNode temp=dummy;
         ListNode c1=list1,c2=list2;
-        // if(list1==null&&list2==null)
-        // {
-        //        return list1;
-        // }
-        // else if((list1!=null&&list2==null))
-        // return list1;
-        // else if(list1==null&&list2!=null)
-        // return list2;
         while(c1!=null&&c2!=null)
         {
             if(c1.val>c2.val)
@@ -36,9 +28,7 @@ class Solution {
             temp=temp.next;
         }
         if(c1!=null)
-        {
-            temp.next=c1;
-        }
+        temp.next=c1;
         else
         temp.next=c2;
         return dummy.next;
