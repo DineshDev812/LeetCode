@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/DineshDev812/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/DineshDev812/LeetCode/tree/master/0011-container-with-most-water) |
 | [0075-sort-colors](https://github.com/DineshDev812/LeetCode/tree/master/0075-sort-colors) |
+| [0079-word-search](https://github.com/DineshDev812/LeetCode/tree/master/0079-word-search) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/DineshDev812/LeetCode/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/DineshDev812/LeetCode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Hash Table
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/DineshDev812/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/DineshDev812/LeetCode/tree/master/0010-regular-expression-matching) |
 | [0012-integer-to-roman](https://github.com/DineshDev812/LeetCode/tree/master/0012-integer-to-roman) |
+| [0079-word-search](https://github.com/DineshDev812/LeetCode/tree/master/0079-word-search) |
 | [2000-reverse-prefix-of-word](https://github.com/DineshDev812/LeetCode/tree/master/2000-reverse-prefix-of-word) |
 | [3794-reverse-string-prefix](https://github.com/DineshDev812/LeetCode/tree/master/3794-reverse-string-prefix) |
 ## Sliding Window
@@ -122,4 +124,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/DineshDev812/LeetCode/tree/master/1944-number-of-visible-people-in-a-queue) |
+## Backtracking
+|  |
+| ------- |
+| [0079-word-search](https://github.com/DineshDev812/LeetCode/tree/master/0079-word-search) |
+## Depth-First Search
+|  |
+| ------- |
+| [0079-word-search](https://github.com/DineshDev812/LeetCode/tree/master/0079-word-search) |
+## Matrix
+|  |
+| ------- |
+| [0079-word-search](https://github.com/DineshDev812/LeetCode/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
