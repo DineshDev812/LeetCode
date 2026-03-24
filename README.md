@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/DineshDev812/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/DineshDev812/LeetCode/tree/master/0010-regular-expression-matching) |
 | [0012-integer-to-roman](https://github.com/DineshDev812/LeetCode/tree/master/0012-integer-to-roman) |
+| [0043-multiply-strings](https://github.com/DineshDev812/LeetCode/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/DineshDev812/LeetCode/tree/master/0058-length-of-last-word) |
 | [0079-word-search](https://github.com/DineshDev812/LeetCode/tree/master/0079-word-search) |
 | [2000-reverse-prefix-of-word](https://github.com/DineshDev812/LeetCode/tree/master/2000-reverse-prefix-of-word) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/DineshDev812/LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/DineshDev812/LeetCode/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/DineshDev812/LeetCode/tree/master/0012-integer-to-roman) |
+| [0043-multiply-strings](https://github.com/DineshDev812/LeetCode/tree/master/0043-multiply-strings) |
 | [0070-climbing-stairs](https://github.com/DineshDev812/LeetCode/tree/master/0070-climbing-stairs) |
 ## Recursion
 |  |
@@ -137,4 +139,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/DineshDev812/LeetCode/tree/master/0079-word-search) |
+## Simulation
+|  |
+| ------- |
+| [0043-multiply-strings](https://github.com/DineshDev812/LeetCode/tree/master/0043-multiply-strings) |
 <!---LeetCode Topics End-->
