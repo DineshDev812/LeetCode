@@ -9,8 +9,7 @@ class Node{
 }
 class MyLinkedList {
         Node head=null;
-    public MyLinkedList() {
-    }
+    
     
     public int get(int index) {
         Node temp=head;
