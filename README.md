@@ -104,12 +104,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/DineshDev812/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/DineshDev812/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0707-design-linked-list](https://github.com/DineshDev812/LeetCode/tree/master/0707-design-linked-list) |
+| [0933-number-of-recent-calls](https://github.com/DineshDev812/LeetCode/tree/master/0933-number-of-recent-calls) |
 | [1472-design-browser-history](https://github.com/DineshDev812/LeetCode/tree/master/1472-design-browser-history) |
 ## Queue
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/DineshDev812/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/DineshDev812/LeetCode/tree/master/0232-implement-queue-using-stacks) |
+| [0933-number-of-recent-calls](https://github.com/DineshDev812/LeetCode/tree/master/0933-number-of-recent-calls) |
 ## Counting
 |  |
 | ------- |
@@ -181,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Data Stream
 |  |
 | ------- |
+| [0933-number-of-recent-calls](https://github.com/DineshDev812/LeetCode/tree/master/0933-number-of-recent-calls) |
 | [1472-design-browser-history](https://github.com/DineshDev812/LeetCode/tree/master/1472-design-browser-history) |
 ## Heap (Priority Queue)
 |  |
