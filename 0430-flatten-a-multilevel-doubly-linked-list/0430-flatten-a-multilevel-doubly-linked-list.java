@@ -28,7 +28,7 @@ class Solution {
                 if(up!=null)
                 {
                     cur.next=up;
-                    cur.next.prev=cur;
+                    up.prev=cur;
                 }
 
             }
