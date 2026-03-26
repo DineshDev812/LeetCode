@@ -1,6 +1,10 @@
 class Solution {
     public String convert(String s, int numRows) {
         StringBuilder[] sb = new StringBuilder[numRows];
+        if(s.length()<numRows)
+        {
+            return s;
+        }
         for(int i=0;i<numRows;i++)
         {
             sb[i]=new StringBuilder();
