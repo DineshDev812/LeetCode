@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/DineshDev812/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/DineshDev812/LeetCode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/DineshDev812/LeetCode/tree/master/0137-single-number-ii) |
+| [0169-majority-element](https://github.com/DineshDev812/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/DineshDev812/LeetCode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/DineshDev812/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/DineshDev812/LeetCode/tree/master/0283-move-zeroes) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/DineshDev812/LeetCode/tree/master/0012-integer-to-roman) |
 | [0141-linked-list-cycle](https://github.com/DineshDev812/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/DineshDev812/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0169-majority-element](https://github.com/DineshDev812/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/DineshDev812/LeetCode/tree/master/0217-contains-duplicate) |
 ## String
 |  |
@@ -62,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/DineshDev812/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/DineshDev812/LeetCode/tree/master/0023-merge-k-sorted-lists) |
+| [0169-majority-element](https://github.com/DineshDev812/LeetCode/tree/master/0169-majority-element) |
 ## Two Pointers
 |  |
 | ------- |
@@ -132,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/DineshDev812/LeetCode/tree/master/0169-majority-element) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/DineshDev812/LeetCode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Linked List
 |  |
@@ -158,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/DineshDev812/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/DineshDev812/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/DineshDev812/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/DineshDev812/LeetCode/tree/master/0217-contains-duplicate) |
 ## Monotonic Stack
 |  |
