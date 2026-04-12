@@ -7,9 +7,7 @@ class Solution {
             Arrays.fill(board[i],'.');
         }
         backtrack(board,0);
-        return res;
-
-        
+        return res;   
     }
     public  void backtrack(char[][] board,int row)
     {
@@ -23,7 +21,7 @@ class Solution {
             res.add(l);
             return;
         }
-        for(int col=0;col<board[row].length;col++)
+        for(int col=0;col<board.length;col++)
         {
         if(isSafe(board,row,col))
         {
