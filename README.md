@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/DineshDev812/LeetCode/tree/master/0012-integer-to-roman) |
 | [0043-multiply-strings](https://github.com/DineshDev812/LeetCode/tree/master/0043-multiply-strings) |
 | [0070-climbing-stairs](https://github.com/DineshDev812/LeetCode/tree/master/0070-climbing-stairs) |
+| [0326-power-of-three](https://github.com/DineshDev812/LeetCode/tree/master/0326-power-of-three) |
 ## Recursion
 |  |
 | ------- |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/DineshDev812/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/DineshDev812/LeetCode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0206-reverse-linked-list](https://github.com/DineshDev812/LeetCode/tree/master/0206-reverse-linked-list) |
+| [0326-power-of-three](https://github.com/DineshDev812/LeetCode/tree/master/0326-power-of-three) |
 ## Greedy
 |  |
 | ------- |
