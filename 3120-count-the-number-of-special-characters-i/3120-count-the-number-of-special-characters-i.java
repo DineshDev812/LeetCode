@@ -1,9 +1,9 @@
 class Solution {
     public int numberOfSpecialChars(String word) {
         Set<Character> set=new LinkedHashSet<>();
-        for(char c:word.toCharArray())
+        for(int i=0;i<word.length();i++)
         {
-            set.add(c);
+            set.add(word.charAt(i));
         }
 
         int c=0;
