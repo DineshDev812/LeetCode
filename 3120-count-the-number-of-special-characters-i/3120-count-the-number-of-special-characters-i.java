@@ -5,26 +5,18 @@ class Solution {
         {
             set.add(c);
         }
-        char[] t=new char[set.size()];
-        int o=0;
-        for(char f:set)
-        t[o++]=f;
-        //  Arrays.sort(t);
-
 
         int c=0;
-       for(int i=0;i<t.length;i++)
+       for(char a:set)
        {
-        for(int j=i+1;j<t.length;j++)
+        for(char b:set)
         {
-            if(Math.abs((int)t[i]-(int)t[j])==32)
-            {
+            if(Math.abs((int)a-(int)b)==32){
             c++;
             break;
             }
         }
        }
-    // System.out.println(t);
-        return c;
+        return c/2;
     }
 }
