@@ -6,13 +6,16 @@ class Solution {
         int ans =0;
         for(int i=0;i<edges.length;i++)
         {
-            for(int j=0;j<edges[0].length;j++)
-            {
-                if(a==edges[i][j]||b==edges[i][j])
+            
+                if(a==edges[i][0]||a==edges[i][1])
                 {
-                    ans=edges[i][j];
+                    ans=a;
                 }
-            }
+                else
+                {
+                    ans=b;
+                }
+            
         }
         return ans;
         
