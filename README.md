@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/DineshDev812/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/DineshDev812/LeetCode/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/DineshDev812/LeetCode/tree/master/0022-generate-parentheses) |
+| [0062-unique-paths](https://github.com/DineshDev812/LeetCode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/DineshDev812/LeetCode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/DineshDev812/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/DineshDev812/LeetCode/tree/master/0198-house-robber) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/DineshDev812/LeetCode/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/DineshDev812/LeetCode/tree/master/0012-integer-to-roman) |
 | [0043-multiply-strings](https://github.com/DineshDev812/LeetCode/tree/master/0043-multiply-strings) |
+| [0062-unique-paths](https://github.com/DineshDev812/LeetCode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/DineshDev812/LeetCode/tree/master/0070-climbing-stairs) |
 | [0326-power-of-three](https://github.com/DineshDev812/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/DineshDev812/LeetCode/tree/master/0342-power-of-four) |
@@ -308,4 +310,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/DineshDev812/LeetCode/tree/master/0200-number-of-islands) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/DineshDev812/LeetCode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
