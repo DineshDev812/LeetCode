@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0091-decode-ways](https://github.com/DineshDev812/LeetCode/tree/master/0091-decode-ways) |
 | [0412-fizz-buzz](https://github.com/DineshDev812/LeetCode/tree/master/0412-fizz-buzz) |
 | [0649-dota2-senate](https://github.com/DineshDev812/LeetCode/tree/master/0649-dota2-senate) |
+| [1143-longest-common-subsequence](https://github.com/DineshDev812/LeetCode/tree/master/1143-longest-common-subsequence) |
 | [2000-reverse-prefix-of-word](https://github.com/DineshDev812/LeetCode/tree/master/2000-reverse-prefix-of-word) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/DineshDev812/LeetCode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/DineshDev812/LeetCode/tree/master/3121-count-the-number-of-special-characters-ii) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/DineshDev812/LeetCode/tree/master/0322-coin-change) |
 | [0509-fibonacci-number](https://github.com/DineshDev812/LeetCode/tree/master/0509-fibonacci-number) |
 | [0518-coin-change-ii](https://github.com/DineshDev812/LeetCode/tree/master/0518-coin-change-ii) |
+| [1143-longest-common-subsequence](https://github.com/DineshDev812/LeetCode/tree/master/1143-longest-common-subsequence) |
 ## Math
 |  |
 | ------- |
