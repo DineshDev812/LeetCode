@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/DineshDev812/LeetCode/tree/master/0518-coin-change-ii) |
 | [0724-find-pivot-index](https://github.com/DineshDev812/LeetCode/tree/master/0724-find-pivot-index) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/DineshDev812/LeetCode/tree/master/0950-reveal-cards-in-increasing-order) |
+| [1019-next-greater-node-in-linked-list](https://github.com/DineshDev812/LeetCode/tree/master/1019-next-greater-node-in-linked-list) |
 | [1046-last-stone-weight](https://github.com/DineshDev812/LeetCode/tree/master/1046-last-stone-weight) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/DineshDev812/LeetCode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1472-design-browser-history](https://github.com/DineshDev812/LeetCode/tree/master/1472-design-browser-history) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/DineshDev812/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/DineshDev812/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/DineshDev812/LeetCode/tree/master/0496-next-greater-element-i) |
+| [1019-next-greater-node-in-linked-list](https://github.com/DineshDev812/LeetCode/tree/master/1019-next-greater-node-in-linked-list) |
 | [1472-design-browser-history](https://github.com/DineshDev812/LeetCode/tree/master/1472-design-browser-history) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/DineshDev812/LeetCode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/DineshDev812/LeetCode/tree/master/1944-number-of-visible-people-in-a-queue) |
@@ -224,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/DineshDev812/LeetCode/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0707-design-linked-list](https://github.com/DineshDev812/LeetCode/tree/master/0707-design-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/DineshDev812/LeetCode/tree/master/0876-middle-of-the-linked-list) |
+| [1019-next-greater-node-in-linked-list](https://github.com/DineshDev812/LeetCode/tree/master/1019-next-greater-node-in-linked-list) |
 | [1472-design-browser-history](https://github.com/DineshDev812/LeetCode/tree/master/1472-design-browser-history) |
 ## Memoization
 |  |
@@ -246,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/DineshDev812/LeetCode/tree/master/0496-next-greater-element-i) |
+| [1019-next-greater-node-in-linked-list](https://github.com/DineshDev812/LeetCode/tree/master/1019-next-greater-node-in-linked-list) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/DineshDev812/LeetCode/tree/master/1944-number-of-visible-people-in-a-queue) |
 ## Backtracking
 |  |
