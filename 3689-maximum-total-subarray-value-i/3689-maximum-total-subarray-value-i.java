@@ -1,11 +1,12 @@
 class Solution {
     public long maxTotalValue(int[] nums, int k) {
-        Arrays.sort(nums);
-        long sum=0;
-        for(int i=0;i<k;i++)
+        long max = Integer.MIN_VALUE;
+        long min=Integer.MAX_VALUE;
+        for(int a:nums)
         {
-            sum+=nums[nums.length-1]-nums[0];
+            max=Math.max(max,a);
+            min=Math.min(min,a);
         }
-        return sum;
+        return (max-min)*k;
     }
 }
