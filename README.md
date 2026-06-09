@@ -357,4 +357,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/DineshDev812/LeetCode/tree/master/0062-unique-paths) |
+## Database
+|  |
+| ------- |
+| [0627-swap-sex-of-employees](https://github.com/DineshDev812/LeetCode/tree/master/0627-swap-sex-of-employees) |
 <!---LeetCode Topics End-->
