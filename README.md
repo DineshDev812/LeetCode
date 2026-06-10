@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/DineshDev812/LeetCode/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/DineshDev812/LeetCode/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/DineshDev812/LeetCode/tree/master/0509-fibonacci-number) |
+| [2769-find-the-maximum-achievable-number](https://github.com/DineshDev812/LeetCode/tree/master/2769-find-the-maximum-achievable-number) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/DineshDev812/LeetCode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 ## Recursion
 |  |
