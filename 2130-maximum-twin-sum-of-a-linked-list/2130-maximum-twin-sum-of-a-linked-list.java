@@ -36,10 +36,11 @@ class Solution {
         while(oldhead!=null && newhead!=null)
         {
             System.out.println(oldhead.val+" "+newhead.val);
-            sum=Math.max(sum,oldhead.val+newhead.val);
+            int max=oldhead.val+newhead.val;
             oldhead=oldhead.next;
             newhead=newhead.next;
-
+            if(max>sum)
+            sum=max;
         }
         return sum;
         
