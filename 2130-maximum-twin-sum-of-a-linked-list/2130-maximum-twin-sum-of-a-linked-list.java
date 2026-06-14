@@ -35,7 +35,6 @@ class Solution {
         int sum=0;
         while(oldhead!=null && newhead!=null)
         {
-            System.out.println(oldhead.val+" "+newhead.val);
             int max=oldhead.val+newhead.val;
             oldhead=oldhead.next;
             newhead=newhead.next;
