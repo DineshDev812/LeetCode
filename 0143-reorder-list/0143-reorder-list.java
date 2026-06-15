@@ -43,9 +43,6 @@ class Solution {
 
             head1=t1;
             head2=t2;
-
         }
-
-        
     }
 }
