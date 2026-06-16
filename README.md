@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/DineshDev812/LeetCode/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/DineshDev812/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/DineshDev812/LeetCode/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/DineshDev812/LeetCode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/DineshDev812/LeetCode/tree/master/0217-contains-duplicate) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/DineshDev812/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0496-next-greater-element-i](https://github.com/DineshDev812/LeetCode/tree/master/0496-next-greater-element-i) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/DineshDev812/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/DineshDev812/LeetCode/tree/master/0143-reorder-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/DineshDev812/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0202-happy-number](https://github.com/DineshDev812/LeetCode/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/DineshDev812/LeetCode/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/DineshDev812/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/DineshDev812/LeetCode/tree/master/0876-middle-of-the-linked-list) |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/DineshDev812/LeetCode/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/DineshDev812/LeetCode/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/DineshDev812/LeetCode/tree/master/0070-climbing-stairs) |
+| [0202-happy-number](https://github.com/DineshDev812/LeetCode/tree/master/0202-happy-number) |
 | [0326-power-of-three](https://github.com/DineshDev812/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/DineshDev812/LeetCode/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/DineshDev812/LeetCode/tree/master/0412-fizz-buzz) |
