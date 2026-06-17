@@ -15,24 +15,14 @@
  */
 class Solution {
     public TreeNode searchBST(TreeNode root, int val) {
-        Queue<TreeNode> q = new LinkedList<>();
-        q.offer(root);
-        while(!q.isEmpty())
+        if(root==null||root.val==val)
         {
-            TreeNode temp=q.poll();
-            if(temp.val==val)
-            {
-                return temp;
-            }
-            if(temp.left!=null)
-            {
-                q.offer(temp.left);
-            }
-            if(temp.right!=null)
-            {
-                q.offer(temp.right);
-            }
+            return root;
         }
-        return null;
+        if(root.val>val)
+        {
+            return searchBST(root.left,val);
+        }
+       return searchBST(root.right,val);
     }
 }
