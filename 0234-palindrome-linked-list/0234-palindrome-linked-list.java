@@ -22,7 +22,6 @@ class Solution {
             slow=slow.next;
             fast=fast.next.next;
         }
-        System.out.println(slow.val);
         ListNode fh=head;
 
         ListNode sh=slow;
