@@ -1,9 +1,13 @@
 class Solution {
     public String truncateSentence(String s, int k) {
-        String res="";
+        StringBuilder res=new StringBuilder();
         String[] arr=s.split(" ");
         for(int i=0;i<k;i++)
-        res+=arr[i]+" ";
-        return res.trim();
+        {
+        res.append(arr[i]);
+        if(i<k-1)
+        res.append(" ");
+        }
+        return res.toString();
     }
 }
