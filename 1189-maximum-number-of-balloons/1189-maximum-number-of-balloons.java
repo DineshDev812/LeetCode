@@ -1,20 +1,6 @@
 class Solution {
     public int maxNumberOfBalloons(String text) {
-        // String s="balloon";
-        // Map<Character,Integer> map = new HashMap<>();
-        // for(char ch:text.toCharArray())
-        // {
-        //     map.put(ch,map.getOrDefault(ch,0)+1);
-        // }
-        // System.out.println(map);
-        // int c=0;
-        // for(Map.Entry<Character,Integer> h:map.entrySet())
-        // {
-           
-        // }
-
         int[] arr = new int[5];
-
         for(int i=0;i<text.length();i++)
         {
             if(text.charAt(i)=='a')
