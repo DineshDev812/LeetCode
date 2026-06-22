@@ -27,10 +27,7 @@ class Solution {
         int c=arr[2]/2;
         int d=arr[3]/2;
         int e=arr[4];
-        int a1=Math.min(a,b);
-        int a2=Math.min(a1,c);
-        int a3=Math.min(a2,d);
-        int a4=Math.min(a3,e);
-        return a4;
+        return Math.min(Math.min(a, b), Math.min(e, Math.min(c, d)));
+
     }
 }
