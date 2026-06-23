@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1143-longest-common-subsequence](https://github.com/DineshDev812/LeetCode/tree/master/1143-longest-common-subsequence) |
 | [1189-maximum-number-of-balloons](https://github.com/DineshDev812/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [1408-string-matching-in-an-array](https://github.com/DineshDev812/LeetCode/tree/master/1408-string-matching-in-an-array) |
+| [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/DineshDev812/LeetCode/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/DineshDev812/LeetCode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/DineshDev812/LeetCode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1773-count-items-matching-a-rule](https://github.com/DineshDev812/LeetCode/tree/master/1773-count-items-matching-a-rule) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/DineshDev812/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0832-flipping-an-image](https://github.com/DineshDev812/LeetCode/tree/master/0832-flipping-an-image) |
 | [0876-middle-of-the-linked-list](https://github.com/DineshDev812/LeetCode/tree/master/0876-middle-of-the-linked-list) |
+| [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/DineshDev812/LeetCode/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [2000-reverse-prefix-of-word](https://github.com/DineshDev812/LeetCode/tree/master/2000-reverse-prefix-of-word) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/DineshDev812/LeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/DineshDev812/LeetCode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -537,6 +539,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0796-rotate-string](https://github.com/DineshDev812/LeetCode/tree/master/0796-rotate-string) |
 | [1408-string-matching-in-an-array](https://github.com/DineshDev812/LeetCode/tree/master/1408-string-matching-in-an-array) |
+| [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/DineshDev812/LeetCode/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 ## Hash Function
 |  |
 | ------- |
