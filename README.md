@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-last-stone-weight](https://github.com/DineshDev812/LeetCode/tree/master/1046-last-stone-weight) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/DineshDev812/LeetCode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/DineshDev812/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1408-string-matching-in-an-array](https://github.com/DineshDev812/LeetCode/tree/master/1408-string-matching-in-an-array) |
 | [1472-design-browser-history](https://github.com/DineshDev812/LeetCode/tree/master/1472-design-browser-history) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/DineshDev812/LeetCode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/DineshDev812/LeetCode/tree/master/1684-count-the-number-of-consistent-strings) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1108-defanging-an-ip-address](https://github.com/DineshDev812/LeetCode/tree/master/1108-defanging-an-ip-address) |
 | [1143-longest-common-subsequence](https://github.com/DineshDev812/LeetCode/tree/master/1143-longest-common-subsequence) |
 | [1189-maximum-number-of-balloons](https://github.com/DineshDev812/LeetCode/tree/master/1189-maximum-number-of-balloons) |
+| [1408-string-matching-in-an-array](https://github.com/DineshDev812/LeetCode/tree/master/1408-string-matching-in-an-array) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/DineshDev812/LeetCode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/DineshDev812/LeetCode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1773-count-items-matching-a-rule](https://github.com/DineshDev812/LeetCode/tree/master/1773-count-items-matching-a-rule) |
@@ -534,6 +536,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/DineshDev812/LeetCode/tree/master/0796-rotate-string) |
+| [1408-string-matching-in-an-array](https://github.com/DineshDev812/LeetCode/tree/master/1408-string-matching-in-an-array) |
 ## Hash Function
 |  |
 | ------- |
