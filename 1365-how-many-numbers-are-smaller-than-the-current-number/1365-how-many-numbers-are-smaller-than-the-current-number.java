@@ -7,7 +7,7 @@ class Solution {
             int count=0;
             for(int j=0;j<nums.length;j++)
             {
-                if(nums[i]>nums[j]&&i!=j)
+                if(nums[i]>nums[j])
                 count++;
             }
             res[i]=count;
