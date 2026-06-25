@@ -8,6 +8,7 @@ class Solution {
             {
                 dp[j]=dp[j]+dp[j-1];
             }
+            System.out.println(Arrays.toString(dp));
         }
         return dp[n-1];
     }
