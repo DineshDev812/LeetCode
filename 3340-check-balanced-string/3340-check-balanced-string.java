@@ -3,12 +3,13 @@ class Solution {
         int ei=0,oi=0;
         for(int i=0;i<num.length();i++)
         {
+            int res=num.charAt(i)-'0';
             if(i%2==0)
-            ei+=num.charAt(i)-'0';
+            ei+=res;
             else
-            oi+=num.charAt(i)-'0';
+            oi+=res;
         }
-        System.out.print(ei+" "+oi);
+        
         return ei==oi;
 
     }
