@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3120-count-the-number-of-special-characters-i](https://github.com/DineshDev812/LeetCode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/DineshDev812/LeetCode/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3174-clear-digits](https://github.com/DineshDev812/LeetCode/tree/master/3174-clear-digits) |
+| [3340-check-balanced-string](https://github.com/DineshDev812/LeetCode/tree/master/3340-check-balanced-string) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/DineshDev812/LeetCode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3612-process-string-with-special-operations-i](https://github.com/DineshDev812/LeetCode/tree/master/3612-process-string-with-special-operations-i) |
 | [3794-reverse-string-prefix](https://github.com/DineshDev812/LeetCode/tree/master/3794-reverse-string-prefix) |
