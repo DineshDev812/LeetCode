@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1773-count-items-matching-a-rule](https://github.com/DineshDev812/LeetCode/tree/master/1773-count-items-matching-a-rule) |
 | [1816-truncate-sentence](https://github.com/DineshDev812/LeetCode/tree/master/1816-truncate-sentence) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/DineshDev812/LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [1903-largest-odd-number-in-string](https://github.com/DineshDev812/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/DineshDev812/LeetCode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/DineshDev812/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2000-reverse-prefix-of-word](https://github.com/DineshDev812/LeetCode/tree/master/2000-reverse-prefix-of-word) |
@@ -246,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/DineshDev812/LeetCode/tree/master/0415-add-strings) |
 | [0509-fibonacci-number](https://github.com/DineshDev812/LeetCode/tree/master/0509-fibonacci-number) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/DineshDev812/LeetCode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+| [1903-largest-odd-number-in-string](https://github.com/DineshDev812/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 | [2769-find-the-maximum-achievable-number](https://github.com/DineshDev812/LeetCode/tree/master/2769-find-the-maximum-achievable-number) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/DineshDev812/LeetCode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/DineshDev812/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -269,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/DineshDev812/LeetCode/tree/master/0011-container-with-most-water) |
 | [0649-dota2-senate](https://github.com/DineshDev812/LeetCode/tree/master/0649-dota2-senate) |
 | [1833-maximum-ice-cream-bars](https://github.com/DineshDev812/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
+| [1903-largest-odd-number-in-string](https://github.com/DineshDev812/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/DineshDev812/LeetCode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/DineshDev812/LeetCode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/DineshDev812/LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
