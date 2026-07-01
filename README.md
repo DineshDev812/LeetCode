@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2540-minimum-common-value](https://github.com/DineshDev812/LeetCode/tree/master/2540-minimum-common-value) |
 | [2974-minimum-number-game](https://github.com/DineshDev812/LeetCode/tree/master/2974-minimum-number-game) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/DineshDev812/LeetCode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3467-transform-array-by-parity](https://github.com/DineshDev812/LeetCode/tree/master/3467-transform-array-by-parity) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/DineshDev812/LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3689-maximum-total-subarray-value-i](https://github.com/DineshDev812/LeetCode/tree/master/3689-maximum-total-subarray-value-i) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/DineshDev812/LeetCode/tree/master/3691-maximum-total-subarray-value-ii) |
@@ -327,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/DineshDev812/LeetCode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/DineshDev812/LeetCode/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/DineshDev812/LeetCode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+| [3467-transform-array-by-parity](https://github.com/DineshDev812/LeetCode/tree/master/3467-transform-array-by-parity) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/DineshDev812/LeetCode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Linked List
 |  |
@@ -377,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/DineshDev812/LeetCode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/DineshDev812/LeetCode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2974-minimum-number-game](https://github.com/DineshDev812/LeetCode/tree/master/2974-minimum-number-game) |
+| [3467-transform-array-by-parity](https://github.com/DineshDev812/LeetCode/tree/master/3467-transform-array-by-parity) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/DineshDev812/LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Monotonic Stack
 |  |
