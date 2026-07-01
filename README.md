@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/DineshDev812/LeetCode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/DineshDev812/LeetCode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2540-minimum-common-value](https://github.com/DineshDev812/LeetCode/tree/master/2540-minimum-common-value) |
+| [2974-minimum-number-game](https://github.com/DineshDev812/LeetCode/tree/master/2974-minimum-number-game) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/DineshDev812/LeetCode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/DineshDev812/LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3689-maximum-total-subarray-value-i](https://github.com/DineshDev812/LeetCode/tree/master/3689-maximum-total-subarray-value-i) |
@@ -373,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-maximum-ice-cream-bars](https://github.com/DineshDev812/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/DineshDev812/LeetCode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/DineshDev812/LeetCode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
+| [2974-minimum-number-game](https://github.com/DineshDev812/LeetCode/tree/master/2974-minimum-number-game) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/DineshDev812/LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Monotonic Stack
 |  |
@@ -417,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/DineshDev812/LeetCode/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/DineshDev812/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/DineshDev812/LeetCode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
+| [2974-minimum-number-game](https://github.com/DineshDev812/LeetCode/tree/master/2974-minimum-number-game) |
 | [3174-clear-digits](https://github.com/DineshDev812/LeetCode/tree/master/3174-clear-digits) |
 | [3498-reverse-degree-of-a-string](https://github.com/DineshDev812/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 | [3612-process-string-with-special-operations-i](https://github.com/DineshDev812/LeetCode/tree/master/3612-process-string-with-special-operations-i) |
@@ -473,6 +476,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-last-stone-weight](https://github.com/DineshDev812/LeetCode/tree/master/1046-last-stone-weight) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/DineshDev812/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/DineshDev812/LeetCode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
+| [2974-minimum-number-game](https://github.com/DineshDev812/LeetCode/tree/master/2974-minimum-number-game) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/DineshDev812/LeetCode/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Merge Sort
 |  |
