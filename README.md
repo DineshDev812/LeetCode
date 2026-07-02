@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/DineshDev812/LeetCode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1313-decompress-run-length-encoded-list](https://github.com/DineshDev812/LeetCode/tree/master/1313-decompress-run-length-encoded-list) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/DineshDev812/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1380-lucky-numbers-in-a-matrix](https://github.com/DineshDev812/LeetCode/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1408-string-matching-in-an-array](https://github.com/DineshDev812/LeetCode/tree/master/1408-string-matching-in-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/DineshDev812/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1472-design-browser-history](https://github.com/DineshDev812/LeetCode/tree/master/1472-design-browser-history) |
@@ -418,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/DineshDev812/LeetCode/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/DineshDev812/LeetCode/tree/master/0200-number-of-islands) |
 | [0832-flipping-an-image](https://github.com/DineshDev812/LeetCode/tree/master/0832-flipping-an-image) |
+| [1380-lucky-numbers-in-a-matrix](https://github.com/DineshDev812/LeetCode/tree/master/1380-lucky-numbers-in-a-matrix) |
 ## Simulation
 |  |
 | ------- |
