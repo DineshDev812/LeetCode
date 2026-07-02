@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/DineshDev812/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1472-design-browser-history](https://github.com/DineshDev812/LeetCode/tree/master/1472-design-browser-history) |
 | [1480-running-sum-of-1d-array](https://github.com/DineshDev812/LeetCode/tree/master/1480-running-sum-of-1d-array) |
+| [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/DineshDev812/LeetCode/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1528-shuffle-string](https://github.com/DineshDev812/LeetCode/tree/master/1528-shuffle-string) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/DineshDev812/LeetCode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/DineshDev812/LeetCode/tree/master/1684-count-the-number-of-consistent-strings) |
@@ -383,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1051-height-checker](https://github.com/DineshDev812/LeetCode/tree/master/1051-height-checker) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/DineshDev812/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/DineshDev812/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/DineshDev812/LeetCode/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1833-maximum-ice-cream-bars](https://github.com/DineshDev812/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/DineshDev812/LeetCode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/DineshDev812/LeetCode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
