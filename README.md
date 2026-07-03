@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/DineshDev812/LeetCode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/DineshDev812/LeetCode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2540-minimum-common-value](https://github.com/DineshDev812/LeetCode/tree/master/2540-minimum-common-value) |
+| [2678-number-of-senior-citizens](https://github.com/DineshDev812/LeetCode/tree/master/2678-number-of-senior-citizens) |
 | [2974-minimum-number-game](https://github.com/DineshDev812/LeetCode/tree/master/2974-minimum-number-game) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/DineshDev812/LeetCode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3467-transform-array-by-parity](https://github.com/DineshDev812/LeetCode/tree/master/3467-transform-array-by-parity) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/DineshDev812/LeetCode/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/DineshDev812/LeetCode/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2255-count-prefixes-of-a-given-string](https://github.com/DineshDev812/LeetCode/tree/master/2255-count-prefixes-of-a-given-string) |
+| [2678-number-of-senior-citizens](https://github.com/DineshDev812/LeetCode/tree/master/2678-number-of-senior-citizens) |
 | [3110-score-of-a-string](https://github.com/DineshDev812/LeetCode/tree/master/3110-score-of-a-string) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/DineshDev812/LeetCode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/DineshDev812/LeetCode/tree/master/3121-count-the-number-of-special-characters-ii) |
