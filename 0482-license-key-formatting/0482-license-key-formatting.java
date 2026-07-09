@@ -24,7 +24,6 @@ class Solution {
             
         }
         
-        System.out.print(res);
         return sb.reverse().toString().toUpperCase();
     }
 }
