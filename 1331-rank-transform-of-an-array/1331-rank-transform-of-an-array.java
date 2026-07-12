@@ -23,7 +23,6 @@ class Solution {
         {
             arr[i]=map.get(arr[i]);
         }
-        System.out.print(map);
         return arr;
     }
 }
