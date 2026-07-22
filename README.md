@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/DineshDev812/LeetCode/tree/master/0409-longest-palindrome) |
 | [0496-next-greater-element-i](https://github.com/DineshDev812/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0535-encode-and-decode-tinyurl](https://github.com/DineshDev812/LeetCode/tree/master/0535-encode-and-decode-tinyurl) |
+| [0567-permutation-in-string](https://github.com/DineshDev812/LeetCode/tree/master/0567-permutation-in-string) |
 | [0771-jewels-and-stones](https://github.com/DineshDev812/LeetCode/tree/master/0771-jewels-and-stones) |
 | [1189-maximum-number-of-balloons](https://github.com/DineshDev812/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/DineshDev812/LeetCode/tree/master/1331-rank-transform-of-an-array) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0482-license-key-formatting](https://github.com/DineshDev812/LeetCode/tree/master/0482-license-key-formatting) |
 | [0521-longest-uncommon-subsequence-i](https://github.com/DineshDev812/LeetCode/tree/master/0521-longest-uncommon-subsequence-i) |
 | [0535-encode-and-decode-tinyurl](https://github.com/DineshDev812/LeetCode/tree/master/0535-encode-and-decode-tinyurl) |
+| [0567-permutation-in-string](https://github.com/DineshDev812/LeetCode/tree/master/0567-permutation-in-string) |
 | [0649-dota2-senate](https://github.com/DineshDev812/LeetCode/tree/master/0649-dota2-senate) |
 | [0771-jewels-and-stones](https://github.com/DineshDev812/LeetCode/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/DineshDev812/LeetCode/tree/master/0796-rotate-string) |
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/DineshDev812/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0567-permutation-in-string](https://github.com/DineshDev812/LeetCode/tree/master/0567-permutation-in-string) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/DineshDev812/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Binary Search
 |  |
@@ -232,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/DineshDev812/LeetCode/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/DineshDev812/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/DineshDev812/LeetCode/tree/master/0392-is-subsequence) |
+| [0567-permutation-in-string](https://github.com/DineshDev812/LeetCode/tree/master/0567-permutation-in-string) |
 | [0832-flipping-an-image](https://github.com/DineshDev812/LeetCode/tree/master/0832-flipping-an-image) |
 | [0876-middle-of-the-linked-list](https://github.com/DineshDev812/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/DineshDev812/LeetCode/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
