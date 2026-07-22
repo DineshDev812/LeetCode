@@ -13,8 +13,12 @@ class Solution {
 
         for(int i=0;i<nums.length;i++)
         {
-            max=Math.max(max,nums[i]);
-            min=Math.min(min,nums[i]);
+           if(max<nums[i])
+           {
+            max=nums[i];
+           }
+           if(nums[i]<min)
+           min=nums[i];
         }
 
         return gcd(min,max);
