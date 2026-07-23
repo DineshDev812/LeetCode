@@ -23,6 +23,7 @@ class Solution {
         }
         count++;
        }
+       
        if(f%2==0)
        {
         return (pre+cur)/2.0;
