@@ -186,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3174-clear-digits](https://github.com/DineshDev812/LeetCode/tree/master/3174-clear-digits) |
 | [3340-check-balanced-string](https://github.com/DineshDev812/LeetCode/tree/master/3340-check-balanced-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/DineshDev812/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/DineshDev812/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/DineshDev812/LeetCode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3612-process-string-with-special-operations-i](https://github.com/DineshDev812/LeetCode/tree/master/3612-process-string-with-special-operations-i) |
 | [3794-reverse-string-prefix](https://github.com/DineshDev812/LeetCode/tree/master/3794-reverse-string-prefix) |
@@ -434,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/DineshDev812/LeetCode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2974-minimum-number-game](https://github.com/DineshDev812/LeetCode/tree/master/2974-minimum-number-game) |
 | [3467-transform-array-by-parity](https://github.com/DineshDev812/LeetCode/tree/master/3467-transform-array-by-parity) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/DineshDev812/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/DineshDev812/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/DineshDev812/LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/DineshDev812/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -662,6 +664,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1051-height-checker](https://github.com/DineshDev812/LeetCode/tree/master/1051-height-checker) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/DineshDev812/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1833-maximum-ice-cream-bars](https://github.com/DineshDev812/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/DineshDev812/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## String Matching
 |  |
 | ------- |
