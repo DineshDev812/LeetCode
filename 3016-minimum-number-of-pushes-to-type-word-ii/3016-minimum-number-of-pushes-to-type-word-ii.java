@@ -16,13 +16,13 @@ class Solution {
         }
 
 
-        System.out.println(sortedMap);
+        // System.out.println(sortedMap);
        for(Map.Entry<Character,Integer> h:sortedMap.entrySet())
        {
           count=((i/8)+1); //*h.getValue();
           i++;
           ans+=count*h.getValue();
-          System.out.println(count+" "+h.getValue());
+        //   System.out.println(count+" "+h.getValue());
        }
         // for(int i=0;i<word.length;i++)
         // {
