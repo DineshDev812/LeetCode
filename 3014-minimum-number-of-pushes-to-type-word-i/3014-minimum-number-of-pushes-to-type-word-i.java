@@ -4,6 +4,7 @@ class Solution {
         for(int i=0;i<word.length();i++)
         {
             count+=(i/8)+1;
+            // System.out.println(i/8);
         }
         return count;
     }
