@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/DineshDev812/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/DineshDev812/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0051-n-queens](https://github.com/DineshDev812/LeetCode/tree/master/0051-n-queens) |
+| [0054-spiral-matrix](https://github.com/DineshDev812/LeetCode/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/DineshDev812/LeetCode/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/DineshDev812/LeetCode/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/DineshDev812/LeetCode/tree/master/0074-search-a-2d-matrix) |
@@ -481,6 +482,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/DineshDev812/LeetCode/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/DineshDev812/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/DineshDev812/LeetCode/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/DineshDev812/LeetCode/tree/master/0200-number-of-islands) |
@@ -491,6 +493,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/DineshDev812/LeetCode/tree/master/0043-multiply-strings) |
+| [0054-spiral-matrix](https://github.com/DineshDev812/LeetCode/tree/master/0054-spiral-matrix) |
 | [0412-fizz-buzz](https://github.com/DineshDev812/LeetCode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/DineshDev812/LeetCode/tree/master/0415-add-strings) |
 | [0832-flipping-an-image](https://github.com/DineshDev812/LeetCode/tree/master/0832-flipping-an-image) |
