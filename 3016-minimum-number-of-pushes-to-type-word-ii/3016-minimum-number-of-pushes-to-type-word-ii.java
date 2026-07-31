@@ -4,6 +4,7 @@ class Solution {
         Map<Character,Integer> map = new HashMap<>();
         for(char ch:word.toCharArray())
         map.put(ch,map.getOrDefault(ch,0)+1);
+        
        int i=0;
        int ans=0;
        List<Map.Entry<Character,Integer>> li = new ArrayList<>(map.entrySet());
