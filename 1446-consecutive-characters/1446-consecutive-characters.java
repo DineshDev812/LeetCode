@@ -16,7 +16,7 @@ class Solution {
                 c=1;
             }
         }
-        max=Math.max(max,c);
+         max=Math.max(max,c);
         return max;
     }
 }
