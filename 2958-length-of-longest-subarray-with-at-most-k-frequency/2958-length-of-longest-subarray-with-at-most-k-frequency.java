@@ -12,6 +12,7 @@ class Solution {
         map.put(nums[left],map.get(nums[left])-1);
         left++;
        }
+    //    System.out.println(map);
 
        if(i-left+1>max)
        max=i-left+1;
