@@ -2,7 +2,6 @@ class Solution {
     public int countDigits(int num) {
         int c=0;
         int a=num;
-        int len=String.valueOf(num).length();
 
         while(num!=0)
         {
