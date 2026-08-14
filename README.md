@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3691-maximum-total-subarray-value-ii](https://github.com/DineshDev812/LeetCode/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3731-find-missing-elements](https://github.com/DineshDev812/LeetCode/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/DineshDev812/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/DineshDev812/LeetCode/tree/master/3898-find-the-degree-of-each-vertex) |
 | [3921-score-validator](https://github.com/DineshDev812/LeetCode/tree/master/3921-score-validator) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/DineshDev812/LeetCode/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 ## Hash Table
@@ -522,6 +523,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1380-lucky-numbers-in-a-matrix](https://github.com/DineshDev812/LeetCode/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [2614-prime-in-diagonal](https://github.com/DineshDev812/LeetCode/tree/master/2614-prime-in-diagonal) |
 | [2643-row-with-maximum-ones](https://github.com/DineshDev812/LeetCode/tree/master/2643-row-with-maximum-ones) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/DineshDev812/LeetCode/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Simulation
 |  |
 | ------- |
@@ -642,6 +644,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/DineshDev812/LeetCode/tree/master/0207-course-schedule) |
 | [1791-find-center-of-star-graph](https://github.com/DineshDev812/LeetCode/tree/master/1791-find-center-of-star-graph) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/DineshDev812/LeetCode/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Topological Sort
 |  |
 | ------- |
