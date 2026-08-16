@@ -11,6 +11,6 @@ class Solution {
        if(c0%2==0)
        return c1>=1&&c2>=1;
        else
-       return c1-c2>2||c2-c1>2;
+       return Math.abs(c1-c2)>2;
     }
 }
