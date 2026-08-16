@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/DineshDev812/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/DineshDev812/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/DineshDev812/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2029-stone-game-ix](https://github.com/DineshDev812/LeetCode/tree/master/2029-stone-game-ix) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/DineshDev812/LeetCode/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/DineshDev812/LeetCode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/DineshDev812/LeetCode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -337,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1812-determine-color-of-a-chessboard-square](https://github.com/DineshDev812/LeetCode/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [1903-largest-odd-number-in-string](https://github.com/DineshDev812/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/DineshDev812/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2029-stone-game-ix](https://github.com/DineshDev812/LeetCode/tree/master/2029-stone-game-ix) |
 | [2235-add-two-integers](https://github.com/DineshDev812/LeetCode/tree/master/2235-add-two-integers) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/DineshDev812/LeetCode/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2614-prime-in-diagonal](https://github.com/DineshDev812/LeetCode/tree/master/2614-prime-in-diagonal) |
@@ -371,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/DineshDev812/LeetCode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1833-maximum-ice-cream-bars](https://github.com/DineshDev812/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
 | [1903-largest-odd-number-in-string](https://github.com/DineshDev812/LeetCode/tree/master/1903-largest-odd-number-in-string) |
+| [2029-stone-game-ix](https://github.com/DineshDev812/LeetCode/tree/master/2029-stone-game-ix) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/DineshDev812/LeetCode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/DineshDev812/LeetCode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/DineshDev812/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -425,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/DineshDev812/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/DineshDev812/LeetCode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/DineshDev812/LeetCode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
+| [2029-stone-game-ix](https://github.com/DineshDev812/LeetCode/tree/master/2029-stone-game-ix) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/DineshDev812/LeetCode/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/DineshDev812/LeetCode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/DineshDev812/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -739,6 +743,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/DineshDev812/LeetCode/tree/master/0877-stone-game) |
+| [2029-stone-game-ix](https://github.com/DineshDev812/LeetCode/tree/master/2029-stone-game-ix) |
 ## Enumeration
 |  |
 | ------- |
@@ -763,4 +768,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/DineshDev812/LeetCode/tree/master/0239-sliding-window-maximum) |
+## Minimax
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/DineshDev812/LeetCode/tree/master/2029-stone-game-ix) |
+## Nim Game
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/DineshDev812/LeetCode/tree/master/2029-stone-game-ix) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/DineshDev812/LeetCode/tree/master/2029-stone-game-ix) |
 <!---LeetCode Topics End-->
