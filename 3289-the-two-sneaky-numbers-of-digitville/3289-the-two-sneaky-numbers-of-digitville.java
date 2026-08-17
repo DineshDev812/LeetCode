@@ -3,19 +3,17 @@ class Solution {
         int[] freq=new int[nums.length];
         for(int i:nums)
         freq[i]++;
-        ArrayList<Integer> li = new ArrayList<>();
+        int[] arr = new int[2];
+        int j=0;
         for(int i=0;i<nums.length;i++)
         {
-            if(freq[nums[i]]==2)
+            if(freq[i]==2)
             {
-                if(!li.contains(nums[i]))
-            li.add(nums[i]);
+               arr[j]=i;
+               j++;
             }
         }
-        int[] arr = new int[li.size()];
-        int j=0;
-        for(int i:li)
-        arr[j++]=i;
+       
         return arr;
     }
 }
