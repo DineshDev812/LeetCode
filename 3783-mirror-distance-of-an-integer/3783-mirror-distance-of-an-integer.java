@@ -8,8 +8,8 @@ class Solution {
             rev=rev*10+d;
             n/=10;
         }
-        System.out.println(rev);
-        System.out.println(num);
+        // System.out.println(rev);
+        // System.out.println(num);
         return Math.abs(num-rev);
     }
 }
