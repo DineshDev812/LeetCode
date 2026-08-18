@@ -796,4 +796,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2029-stone-game-ix](https://github.com/DineshDev812/LeetCode/tree/master/2029-stone-game-ix) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/DineshDev812/LeetCode/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
