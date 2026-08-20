@@ -22,12 +22,9 @@ class Solution {
             }
         }
 
-       ArrayList<Integer> merged = new ArrayList<>(li1);
-merged.addAll(li2);
-
-int[] res = merged.stream()
-                  .mapToInt(Integer::intValue)
-                  .toArray();
-        return res;
+       li1.addAll(li2);
+       for(int i=0;i<nums.length;i++)
+       nums[i]=li1.get(i);
+        return nums;
     }
 }
