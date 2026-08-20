@@ -22,9 +22,12 @@ class Solution {
             }
         }
 
-       li1.addAll(li2);
-       for(int i=0;i<nums.length;i++)
-       nums[i]=li1.get(i);
+       int ind=-1;
+       for(int i=0;i<li1.size();i++)
+       nums[++ind]=li1.get(i);
+
+       for(int i=0;i<li2.size();i++)
+       nums[++ind]=li2.get(i);
         return nums;
     }
 }
