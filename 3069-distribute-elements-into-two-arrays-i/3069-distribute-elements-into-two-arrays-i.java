@@ -28,11 +28,7 @@ class Solution {
             }
         }
 
-        // if(li1.get(ind1-1)>li2.get(ind2-1))
-        // li1.add(nums[nums.length-1]);
-        // else
-        // li2.add(nums[nums.length-1]);
-         int ind=-1;
+        int ind=-1;
        for(int i:li1)
        res[++ind]=i;
        for(int i:li2)
