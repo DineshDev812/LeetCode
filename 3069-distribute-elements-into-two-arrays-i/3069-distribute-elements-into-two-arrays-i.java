@@ -1,15 +1,9 @@
 class Solution {
     public int[] resultArray(int[] nums) {
-        int n;
-        if(nums.length%2==0)
-         n =nums.length/2;
-        else
-         n=nums.length/2+1;
 
         List<Integer> li1= new ArrayList<>();
         List<Integer> li2= new ArrayList<>();
     
-        int[] res= new int[nums.length];
         int ind1=0,ind2=0;
         li1.add(nums[0]);
         li2.add(nums[1]);
@@ -28,14 +22,12 @@ class Solution {
             }
         }
 
-        int ind=-1;
-       for(int i:li1)
-       res[++ind]=i;
-       for(int i:li2)
-       res[++ind]=i;
-       System.out.println(li1);
-       System.out.println(li2);
+       ArrayList<Integer> merged = new ArrayList<>(li1);
+merged.addAll(li2);
+
+int[] res = merged.stream()
+                  .mapToInt(Integer::intValue)
+                  .toArray();
         return res;
-        
     }
 }
