@@ -6,12 +6,10 @@ class Solution {
         for(int i:nums)
         li1.add(i);
 
-        for(int i=k;i<=1000;i+=k)
-        {
-            System.out.println(i);
-            if(!li1.contains(i))
-            return i;
-        }
-        return -1;
+        int num=k;
+        while(li1.contains(num))
+        num+=k;
+
+        return num;
     }
 }
