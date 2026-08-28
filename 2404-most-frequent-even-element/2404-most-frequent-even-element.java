@@ -11,7 +11,7 @@ class Solution {
         //  System.out.println(map);
         for(Map.Entry<Integer,Integer> b:map.entrySet())
         {
-            if(b.getKey()%2==0&&b.getValue()>max)
+            if(b.getValue()>max)
             {
                 
                max= b.getValue();
@@ -19,7 +19,7 @@ class Solution {
             //    System.out.println(max);
             //    System.out.println(element);
             }
-            else if(b.getKey()%2==0&&b.getValue()==max)
+            else if(b.getValue()==max)
             {
                 element=Math.min(element,b.getKey());
             }
