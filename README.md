@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/DineshDev812/LeetCode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/DineshDev812/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/DineshDev812/LeetCode/tree/master/3731-find-missing-elements) |
+| [3838-weighted-word-mapping](https://github.com/DineshDev812/LeetCode/tree/master/3838-weighted-word-mapping) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/DineshDev812/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/DineshDev812/LeetCode/tree/master/3898-find-the-degree-of-each-vertex) |
 | [3921-score-validator](https://github.com/DineshDev812/LeetCode/tree/master/3921-score-validator) |
@@ -238,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3794-reverse-string-prefix](https://github.com/DineshDev812/LeetCode/tree/master/3794-reverse-string-prefix) |
 | [3798-largest-even-number](https://github.com/DineshDev812/LeetCode/tree/master/3798-largest-even-number) |
 | [3813-vowel-consonant-score](https://github.com/DineshDev812/LeetCode/tree/master/3813-vowel-consonant-score) |
+| [3838-weighted-word-mapping](https://github.com/DineshDev812/LeetCode/tree/master/3838-weighted-word-mapping) |
 | [3856-trim-trailing-vowels](https://github.com/DineshDev812/LeetCode/tree/master/3856-trim-trailing-vowels) |
 | [3884-first-matching-character-from-both-ends](https://github.com/DineshDev812/LeetCode/tree/master/3884-first-matching-character-from-both-ends) |
 | [3921-score-validator](https://github.com/DineshDev812/LeetCode/tree/master/3921-score-validator) |
@@ -588,6 +590,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3612-process-string-with-special-operations-i](https://github.com/DineshDev812/LeetCode/tree/master/3612-process-string-with-special-operations-i) |
 | [3701-compute-alternating-sum](https://github.com/DineshDev812/LeetCode/tree/master/3701-compute-alternating-sum) |
 | [3813-vowel-consonant-score](https://github.com/DineshDev812/LeetCode/tree/master/3813-vowel-consonant-score) |
+| [3838-weighted-word-mapping](https://github.com/DineshDev812/LeetCode/tree/master/3838-weighted-word-mapping) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/DineshDev812/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3921-score-validator](https://github.com/DineshDev812/LeetCode/tree/master/3921-score-validator) |
 | [3925-concatenate-array-with-reverse](https://github.com/DineshDev812/LeetCode/tree/master/3925-concatenate-array-with-reverse) |
