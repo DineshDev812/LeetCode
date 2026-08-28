@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2974-minimum-number-game](https://github.com/DineshDev812/LeetCode/tree/master/2974-minimum-number-game) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/DineshDev812/LeetCode/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/DineshDev812/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3162-find-the-number-of-good-pairs-i](https://github.com/DineshDev812/LeetCode/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/DineshDev812/LeetCode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/DineshDev812/LeetCode/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3285-find-indices-of-stable-mountains](https://github.com/DineshDev812/LeetCode/tree/master/3285-find-indices-of-stable-mountains) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/DineshDev812/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/DineshDev812/LeetCode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/DineshDev812/LeetCode/tree/master/3121-count-the-number-of-special-characters-ii) |
+| [3162-find-the-number-of-good-pairs-i](https://github.com/DineshDev812/LeetCode/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/DineshDev812/LeetCode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/DineshDev812/LeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/DineshDev812/LeetCode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
