@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2614-prime-in-diagonal](https://github.com/DineshDev812/LeetCode/tree/master/2614-prime-in-diagonal) |
 | [2643-row-with-maximum-ones](https://github.com/DineshDev812/LeetCode/tree/master/2643-row-with-maximum-ones) |
 | [2678-number-of-senior-citizens](https://github.com/DineshDev812/LeetCode/tree/master/2678-number-of-senior-citizens) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/DineshDev812/LeetCode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/DineshDev812/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2974-minimum-number-game](https://github.com/DineshDev812/LeetCode/tree/master/2974-minimum-number-game) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/DineshDev812/LeetCode/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
@@ -260,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1539-kth-missing-positive-number](https://github.com/DineshDev812/LeetCode/tree/master/1539-kth-missing-positive-number) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/DineshDev812/LeetCode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2540-minimum-common-value](https://github.com/DineshDev812/LeetCode/tree/master/2540-minimum-common-value) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/DineshDev812/LeetCode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/DineshDev812/LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Divide and Conquer
 |  |
@@ -299,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/DineshDev812/LeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/DineshDev812/LeetCode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2540-minimum-common-value](https://github.com/DineshDev812/LeetCode/tree/master/2540-minimum-common-value) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/DineshDev812/LeetCode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/DineshDev812/LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3794-reverse-string-prefix](https://github.com/DineshDev812/LeetCode/tree/master/3794-reverse-string-prefix) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/DineshDev812/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -507,6 +510,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-maximum-ice-cream-bars](https://github.com/DineshDev812/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/DineshDev812/LeetCode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/DineshDev812/LeetCode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/DineshDev812/LeetCode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2974-minimum-number-game](https://github.com/DineshDev812/LeetCode/tree/master/2974-minimum-number-game) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/DineshDev812/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3467-transform-array-by-parity](https://github.com/DineshDev812/LeetCode/tree/master/3467-transform-array-by-parity) |
