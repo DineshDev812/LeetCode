@@ -3,8 +3,8 @@ class Solution {
         int sinsum=0,dousum=0;
         for(int i=0;i<nums.length;i++)
         {
-            int len=String.valueOf(nums[i]).length();
-            if(len==1)
+            
+            if(nums[i]<10)
             sinsum+=nums[i];
             else
             dousum+=nums[i];
