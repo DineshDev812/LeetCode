@@ -373,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/DineshDev812/LeetCode/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/DineshDev812/LeetCode/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/DineshDev812/LeetCode/tree/master/0202-happy-number) |
+| [0258-add-digits](https://github.com/DineshDev812/LeetCode/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/DineshDev812/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/DineshDev812/LeetCode/tree/master/0342-power-of-four) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/DineshDev812/LeetCode/tree/master/0405-convert-a-number-to-hexadecimal) |
@@ -605,6 +606,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/DineshDev812/LeetCode/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/DineshDev812/LeetCode/tree/master/0054-spiral-matrix) |
+| [0258-add-digits](https://github.com/DineshDev812/LeetCode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/DineshDev812/LeetCode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/DineshDev812/LeetCode/tree/master/0415-add-strings) |
 | [0832-flipping-an-image](https://github.com/DineshDev812/LeetCode/tree/master/0832-flipping-an-image) |
@@ -797,6 +799,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/DineshDev812/LeetCode/tree/master/0258-add-digits) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/DineshDev812/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2413-smallest-even-multiple](https://github.com/DineshDev812/LeetCode/tree/master/2413-smallest-even-multiple) |
 | [2614-prime-in-diagonal](https://github.com/DineshDev812/LeetCode/tree/master/2614-prime-in-diagonal) |
