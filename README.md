@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/DineshDev812/LeetCode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/DineshDev812/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2029-stone-game-ix](https://github.com/DineshDev812/LeetCode/tree/master/2029-stone-game-ix) |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/DineshDev812/LeetCode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/DineshDev812/LeetCode/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/DineshDev812/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/DineshDev812/LeetCode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
@@ -439,6 +440,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-maximum-ice-cream-bars](https://github.com/DineshDev812/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
 | [1903-largest-odd-number-in-string](https://github.com/DineshDev812/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 | [2029-stone-game-ix](https://github.com/DineshDev812/LeetCode/tree/master/2029-stone-game-ix) |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/DineshDev812/LeetCode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/DineshDev812/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/DineshDev812/LeetCode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/DineshDev812/LeetCode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
@@ -554,6 +556,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/DineshDev812/LeetCode/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1833-maximum-ice-cream-bars](https://github.com/DineshDev812/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/DineshDev812/LeetCode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/DineshDev812/LeetCode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/DineshDev812/LeetCode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/DineshDev812/LeetCode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/DineshDev812/LeetCode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -814,6 +817,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1051-height-checker](https://github.com/DineshDev812/LeetCode/tree/master/1051-height-checker) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/DineshDev812/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1833-maximum-ice-cream-bars](https://github.com/DineshDev812/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/DineshDev812/LeetCode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/DineshDev812/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## String Matching
 |  |
