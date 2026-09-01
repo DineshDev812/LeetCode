@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2614-prime-in-diagonal](https://github.com/DineshDev812/LeetCode/tree/master/2614-prime-in-diagonal) |
 | [2643-row-with-maximum-ones](https://github.com/DineshDev812/LeetCode/tree/master/2643-row-with-maximum-ones) |
 | [2678-number-of-senior-citizens](https://github.com/DineshDev812/LeetCode/tree/master/2678-number-of-senior-citizens) |
+| [2798-number-of-employees-who-met-the-target](https://github.com/DineshDev812/LeetCode/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/DineshDev812/LeetCode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/DineshDev812/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2974-minimum-number-game](https://github.com/DineshDev812/LeetCode/tree/master/2974-minimum-number-game) |
