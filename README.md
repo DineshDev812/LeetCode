@@ -254,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2103-rings-and-rods](https://github.com/DineshDev812/LeetCode/tree/master/2103-rings-and-rods) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/DineshDev812/LeetCode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/DineshDev812/LeetCode/tree/master/2124-check-if-all-as-appears-before-all-bs) |
+| [2138-divide-a-string-into-groups-of-size-k](https://github.com/DineshDev812/LeetCode/tree/master/2138-divide-a-string-into-groups-of-size-k) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/DineshDev812/LeetCode/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2255-count-prefixes-of-a-given-string](https://github.com/DineshDev812/LeetCode/tree/master/2255-count-prefixes-of-a-given-string) |
 | [2278-percentage-of-letter-in-string](https://github.com/DineshDev812/LeetCode/tree/master/2278-percentage-of-letter-in-string) |
@@ -646,6 +647,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1920-build-array-from-permutation](https://github.com/DineshDev812/LeetCode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/DineshDev812/LeetCode/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/DineshDev812/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2138-divide-a-string-into-groups-of-size-k](https://github.com/DineshDev812/LeetCode/tree/master/2138-divide-a-string-into-groups-of-size-k) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/DineshDev812/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/DineshDev812/LeetCode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2553-separate-the-digits-in-an-array](https://github.com/DineshDev812/LeetCode/tree/master/2553-separate-the-digits-in-an-array) |
