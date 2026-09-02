@@ -218,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/DineshDev812/LeetCode/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/DineshDev812/LeetCode/tree/master/0796-rotate-string) |
 | [0824-goat-latin](https://github.com/DineshDev812/LeetCode/tree/master/0824-goat-latin) |
+| [1028-recover-a-tree-from-preorder-traversal](https://github.com/DineshDev812/LeetCode/tree/master/1028-recover-a-tree-from-preorder-traversal) |
 | [1108-defanging-an-ip-address](https://github.com/DineshDev812/LeetCode/tree/master/1108-defanging-an-ip-address) |
 | [1143-longest-common-subsequence](https://github.com/DineshDev812/LeetCode/tree/master/1143-longest-common-subsequence) |
 | [1189-maximum-number-of-balloons](https://github.com/DineshDev812/LeetCode/tree/master/1189-maximum-number-of-balloons) |
@@ -598,6 +599,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/DineshDev812/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/DineshDev812/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0938-range-sum-of-bst](https://github.com/DineshDev812/LeetCode/tree/master/0938-range-sum-of-bst) |
+| [1028-recover-a-tree-from-preorder-traversal](https://github.com/DineshDev812/LeetCode/tree/master/1028-recover-a-tree-from-preorder-traversal) |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/DineshDev812/LeetCode/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 ## Matrix
 |  |
@@ -656,6 +658,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0637-average-of-levels-in-binary-tree](https://github.com/DineshDev812/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/DineshDev812/LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/DineshDev812/LeetCode/tree/master/0938-range-sum-of-bst) |
+| [1028-recover-a-tree-from-preorder-traversal](https://github.com/DineshDev812/LeetCode/tree/master/1028-recover-a-tree-from-preorder-traversal) |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/DineshDev812/LeetCode/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 ## Binary Tree
 |  |
@@ -671,6 +674,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0637-average-of-levels-in-binary-tree](https://github.com/DineshDev812/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/DineshDev812/LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/DineshDev812/LeetCode/tree/master/0938-range-sum-of-bst) |
+| [1028-recover-a-tree-from-preorder-traversal](https://github.com/DineshDev812/LeetCode/tree/master/1028-recover-a-tree-from-preorder-traversal) |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/DineshDev812/LeetCode/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 ## Bit Manipulation
 |  |
