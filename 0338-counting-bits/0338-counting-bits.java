@@ -1,0 +1,20 @@
+class Solution {
+    public static int countBit(int n)
+    {
+        int count=0;
+        while(n>0)
+        {
+            n&=(n-1);
+            count++;
+        }
+        return count;
+    }
+    public int[] countBits(int n) {
+        int[] arr = new int[n+1];
+        for(int i=0;i<arr.length;i++)
+        {
+            arr[i]=countBit(i);
+        }
+        return arr;
+    }
+}
