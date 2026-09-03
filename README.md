@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/DineshDev812/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/DineshDev812/LeetCode/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/DineshDev812/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0048-rotate-image](https://github.com/DineshDev812/LeetCode/tree/main/0048-rotate-image/) | Medium |
 | [0049-group-anagrams](https://github.com/DineshDev812/LeetCode/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/DineshDev812/LeetCode/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/DineshDev812/LeetCode/tree/master/0054-spiral-matrix) |
@@ -393,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/DineshDev812/LeetCode/tree/master/0012-integer-to-roman) |
 | [0029-divide-two-integers](https://github.com/DineshDev812/LeetCode/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/DineshDev812/LeetCode/tree/master/0043-multiply-strings) |
+| [0048-rotate-image](https://github.com/DineshDev812/LeetCode/tree/main/0048-rotate-image/) | Medium |
 | [0050-powx-n](https://github.com/DineshDev812/LeetCode/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/DineshDev812/LeetCode/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/DineshDev812/LeetCode/tree/master/0066-plus-one) |
@@ -633,6 +635,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0048-rotate-image](https://github.com/DineshDev812/LeetCode/tree/main/0048-rotate-image/) | Medium |
 | [0054-spiral-matrix](https://github.com/DineshDev812/LeetCode/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/DineshDev812/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/DineshDev812/LeetCode/tree/master/0079-word-search) |
