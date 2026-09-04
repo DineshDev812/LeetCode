@@ -28,8 +28,8 @@ class Solution {
                 break;
                 }
             }
-        System.out.println("instability score: "+minans);
-        System.out.println(max+" "+min);
+        // System.out.println("instability score: "+minans);
+        // System.out.println(max+" "+min);
         // System.out.println(min);
         }
         return ind;
