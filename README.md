@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/DineshDev812/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2029-stone-game-ix](https://github.com/DineshDev812/LeetCode/tree/master/2029-stone-game-ix) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/DineshDev812/LeetCode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
+| [2057-smallest-index-with-equal-value](https://github.com/DineshDev812/LeetCode/tree/main/2057-smallest-index-with-equal-value/) | Easy |
 | [2085-count-common-words-with-one-occurrence](https://github.com/DineshDev812/LeetCode/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/DineshDev812/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/DineshDev812/LeetCode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
