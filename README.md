@@ -579,6 +579,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1472-design-browser-history](https://github.com/DineshDev812/LeetCode/tree/master/1472-design-browser-history) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/DineshDev812/LeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/DineshDev812/LeetCode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+| [2181-merge-nodes-in-between-zeros](https://github.com/DineshDev812/LeetCode/tree/main/2181-merge-nodes-in-between-zeros/) | Medium |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/DineshDev812/LeetCode/tree/main/2807-insert-greatest-common-divisors-in-linked-list/) | Medium |
 ## Memoization
 | Problem Name | Difficulty |
@@ -679,6 +680,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/DineshDev812/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2138-divide-a-string-into-groups-of-size-k](https://github.com/DineshDev812/LeetCode/tree/master/2138-divide-a-string-into-groups-of-size-k) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/DineshDev812/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2181-merge-nodes-in-between-zeros](https://github.com/DineshDev812/LeetCode/tree/main/2181-merge-nodes-in-between-zeros/) | Medium |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/DineshDev812/LeetCode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2553-separate-the-digits-in-an-array](https://github.com/DineshDev812/LeetCode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2562-find-the-array-concatenation-value](https://github.com/DineshDev812/LeetCode/tree/master/2562-find-the-array-concatenation-value) |
