@@ -204,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3718-smallest-missing-multiple-of-k](https://github.com/DineshDev812/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/DineshDev812/LeetCode/tree/master/3731-find-missing-elements) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/DineshDev812/LeetCode/tree/master/3760-maximum-substrings-with-distinct-start) |
+| [3945-digit-frequency-score](https://github.com/DineshDev812/LeetCode/tree/main/3945-digit-frequency-score/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -453,6 +454,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3875-construct-uniform-parity-array-i](https://github.com/DineshDev812/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/DineshDev812/LeetCode/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3895-count-digit-appearances](https://github.com/DineshDev812/LeetCode/tree/master/3895-count-digit-appearances) |
+| [3945-digit-frequency-score](https://github.com/DineshDev812/LeetCode/tree/main/3945-digit-frequency-score/) | Easy |
 | [3982-sum-of-integers-with-maximum-digit-range](https://github.com/DineshDev812/LeetCode/tree/master/3982-sum-of-integers-with-maximum-digit-range) |
 ## Recursion
 | Problem Name | Difficulty |
