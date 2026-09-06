@@ -222,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/DineshDev812/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/DineshDev812/LeetCode/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/DineshDev812/LeetCode/tree/master/0091-decode-ways) |
+| [0115-distinct-subsequences](https://github.com/DineshDev812/LeetCode/tree/main/0115-distinct-subsequences/) | Hard |
 | [0392-is-subsequence](https://github.com/DineshDev812/LeetCode/tree/master/0392-is-subsequence) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/DineshDev812/LeetCode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0409-longest-palindrome](https://github.com/DineshDev812/LeetCode/tree/master/0409-longest-palindrome) |
@@ -383,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/DineshDev812/LeetCode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/DineshDev812/LeetCode/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/DineshDev812/LeetCode/tree/master/0091-decode-ways) |
+| [0115-distinct-subsequences](https://github.com/DineshDev812/LeetCode/tree/main/0115-distinct-subsequences/) | Hard |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/DineshDev812/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/DineshDev812/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/DineshDev812/LeetCode/tree/master/0198-house-robber) |
