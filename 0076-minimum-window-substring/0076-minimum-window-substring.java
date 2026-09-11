@@ -8,6 +8,7 @@ class Solution {
        int left=0;
        int minlen=Integer.MAX_VALUE;
        int start=0;
+       
        for(int r=0;r<s.length();r++)
        {
         if(freq[s.charAt(r)]>0)
