@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/DineshDev812/LeetCode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/DineshDev812/LeetCode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3386-button-with-longest-push-time](https://github.com/DineshDev812/LeetCode/tree/master/3386-button-with-longest-push-time) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/DineshDev812/LeetCode/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 | [3467-transform-array-by-parity](https://github.com/DineshDev812/LeetCode/tree/master/3467-transform-array-by-parity) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/DineshDev812/LeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/DineshDev812/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -330,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/DineshDev812/LeetCode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2540-minimum-common-value](https://github.com/DineshDev812/LeetCode/tree/master/2540-minimum-common-value) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/DineshDev812/LeetCode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/DineshDev812/LeetCode/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/DineshDev812/LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -406,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-distinct-subsequences-ii](https://github.com/DineshDev812/LeetCode/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [1143-longest-common-subsequence](https://github.com/DineshDev812/LeetCode/tree/master/1143-longest-common-subsequence) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/DineshDev812/LeetCode/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/DineshDev812/LeetCode/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -628,6 +631,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/DineshDev812/LeetCode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2974-minimum-number-game](https://github.com/DineshDev812/LeetCode/tree/master/2974-minimum-number-game) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/DineshDev812/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/DineshDev812/LeetCode/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 | [3467-transform-array-by-parity](https://github.com/DineshDev812/LeetCode/tree/master/3467-transform-array-by-parity) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/DineshDev812/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/DineshDev812/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
