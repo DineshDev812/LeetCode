@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0719-find-k-th-smallest-pair-distance](https://github.com/DineshDev812/LeetCode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0724-find-pivot-index](https://github.com/DineshDev812/LeetCode/tree/master/0724-find-pivot-index) |
 | [0832-flipping-an-image](https://github.com/DineshDev812/LeetCode/tree/master/0832-flipping-an-image) |
+| [0835-image-overlap](https://github.com/DineshDev812/LeetCode/tree/main/0835-image-overlap/) | Medium |
 | [0877-stone-game](https://github.com/DineshDev812/LeetCode/tree/master/0877-stone-game) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/DineshDev812/LeetCode/tree/master/0950-reveal-cards-in-increasing-order) |
 | [0980-unique-paths-iii](https://github.com/DineshDev812/LeetCode/tree/master/0980-unique-paths-iii) |
@@ -677,6 +678,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/DineshDev812/LeetCode/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/DineshDev812/LeetCode/tree/master/0200-number-of-islands) |
 | [0832-flipping-an-image](https://github.com/DineshDev812/LeetCode/tree/master/0832-flipping-an-image) |
+| [0835-image-overlap](https://github.com/DineshDev812/LeetCode/tree/main/0835-image-overlap/) | Medium |
 | [0980-unique-paths-iii](https://github.com/DineshDev812/LeetCode/tree/master/0980-unique-paths-iii) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/DineshDev812/LeetCode/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [2614-prime-in-diagonal](https://github.com/DineshDev812/LeetCode/tree/master/2614-prime-in-diagonal) |
