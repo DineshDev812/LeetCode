@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/DineshDev812/LeetCode/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/DineshDev812/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0303-range-sum-query-immutable](https://github.com/DineshDev812/LeetCode/tree/master/0303-range-sum-query-immutable) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/DineshDev812/LeetCode/tree/main/0315-count-of-smaller-numbers-after-self/) | Hard |
 | [0322-coin-change](https://github.com/DineshDev812/LeetCode/tree/master/0322-coin-change) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/DineshDev812/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0480-sliding-window-median](https://github.com/DineshDev812/LeetCode/tree/main/0480-sliding-window-median/) | Hard |
@@ -334,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/DineshDev812/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0222-count-complete-tree-nodes](https://github.com/DineshDev812/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0300-longest-increasing-subsequence](https://github.com/DineshDev812/LeetCode/tree/master/0300-longest-increasing-subsequence) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/DineshDev812/LeetCode/tree/main/0315-count-of-smaller-numbers-after-self/) | Hard |
 | [0350-intersection-of-two-arrays-ii](https://github.com/DineshDev812/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/DineshDev812/LeetCode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0732-my-calendar-iii](https://github.com/DineshDev812/LeetCode/tree/master/0732-my-calendar-iii) |
@@ -351,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/DineshDev812/LeetCode/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/DineshDev812/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/DineshDev812/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/DineshDev812/LeetCode/tree/main/0315-count-of-smaller-numbers-after-self/) | Hard |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/DineshDev812/LeetCode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -826,6 +829,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/DineshDev812/LeetCode/tree/master/0023-merge-k-sorted-lists) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/DineshDev812/LeetCode/tree/main/0315-count-of-smaller-numbers-after-self/) | Hard |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -915,6 +919,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Segment Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/DineshDev812/LeetCode/tree/main/0315-count-of-smaller-numbers-after-self/) | Hard |
 | [0732-my-calendar-iii](https://github.com/DineshDev812/LeetCode/tree/master/0732-my-calendar-iii) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/DineshDev812/LeetCode/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Binary Search Tree
@@ -1013,6 +1018,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Ordered Set
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/DineshDev812/LeetCode/tree/main/0315-count-of-smaller-numbers-after-self/) | Hard |
 | [0732-my-calendar-iii](https://github.com/DineshDev812/LeetCode/tree/master/0732-my-calendar-iii) |
 ## Trie
 | Problem Name | Difficulty |
@@ -1029,5 +1035,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Treap
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/DineshDev812/LeetCode/tree/main/0315-count-of-smaller-numbers-after-self/) | Hard |
 | [0480-sliding-window-median](https://github.com/DineshDev812/LeetCode/tree/main/0480-sliding-window-median/) | Hard |
+## Binary Indexed Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/DineshDev812/LeetCode/tree/main/0315-count-of-smaller-numbers-after-self/) | Hard |
 <!---LeetCode Topics End-->
