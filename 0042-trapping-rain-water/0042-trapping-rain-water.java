@@ -7,7 +7,7 @@ class Solution {
        {
         if(height[l]<height[r])
         {
-         if(height[l]>leftmax)
+         if(height[l]>=leftmax)
          {
             leftmax=height[l];
          }
