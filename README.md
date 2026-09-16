@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/DineshDev812/LeetCode/tree/master/0877-stone-game) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/DineshDev812/LeetCode/tree/master/0950-reveal-cards-in-increasing-order) |
 | [0980-unique-paths-iii](https://github.com/DineshDev812/LeetCode/tree/master/0980-unique-paths-iii) |
+| [0994-rotting-oranges](https://github.com/DineshDev812/LeetCode/tree/main/0994-rotting-oranges/) | Medium |
 | [1019-next-greater-node-in-linked-list](https://github.com/DineshDev812/LeetCode/tree/master/1019-next-greater-node-in-linked-list) |
 | [1046-last-stone-weight](https://github.com/DineshDev812/LeetCode/tree/master/1046-last-stone-weight) |
 | [1051-height-checker](https://github.com/DineshDev812/LeetCode/tree/master/1051-height-checker) |
@@ -704,6 +705,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0832-flipping-an-image](https://github.com/DineshDev812/LeetCode/tree/master/0832-flipping-an-image) |
 | [0835-image-overlap](https://github.com/DineshDev812/LeetCode/tree/main/0835-image-overlap/) | Medium |
 | [0980-unique-paths-iii](https://github.com/DineshDev812/LeetCode/tree/master/0980-unique-paths-iii) |
+| [0994-rotting-oranges](https://github.com/DineshDev812/LeetCode/tree/main/0994-rotting-oranges/) | Medium |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/DineshDev812/LeetCode/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [2614-prime-in-diagonal](https://github.com/DineshDev812/LeetCode/tree/master/2614-prime-in-diagonal) |
 | [2643-row-with-maximum-ones](https://github.com/DineshDev812/LeetCode/tree/master/2643-row-with-maximum-ones) |
@@ -857,6 +859,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/DineshDev812/LeetCode/tree/master/0207-course-schedule) |
 | [0322-coin-change](https://github.com/DineshDev812/LeetCode/tree/master/0322-coin-change) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/DineshDev812/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0994-rotting-oranges](https://github.com/DineshDev812/LeetCode/tree/main/0994-rotting-oranges/) | Medium |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/DineshDev812/LeetCode/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 ## Graph Theory
 | Problem Name | Difficulty |
