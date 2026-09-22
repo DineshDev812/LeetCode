@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/DineshDev812/LeetCode/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 | [3467-transform-array-by-parity](https://github.com/DineshDev812/LeetCode/tree/master/3467-transform-array-by-parity) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/DineshDev812/LeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3525-find-x-value-of-array-ii](https://github.com/DineshDev812/LeetCode/tree/main/3525-find-x-value-of-array-ii/) | Hard |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/DineshDev812/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/DineshDev812/LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3668-restore-finishing-order](https://github.com/DineshDev812/LeetCode/tree/master/3668-restore-finishing-order) |
@@ -482,6 +483,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/DineshDev812/LeetCode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/DineshDev812/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3516-find-closest-person](https://github.com/DineshDev812/LeetCode/tree/main/3516-find-closest-person/) | Easy |
+| [3525-find-x-value-of-array-ii](https://github.com/DineshDev812/LeetCode/tree/main/3525-find-x-value-of-array-ii/) | Hard |
 | [3536-maximum-product-of-two-digits](https://github.com/DineshDev812/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/DineshDev812/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/DineshDev812/LeetCode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -925,6 +927,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/DineshDev812/LeetCode/tree/main/0315-count-of-smaller-numbers-after-self/) | Hard |
 | [0732-my-calendar-iii](https://github.com/DineshDev812/LeetCode/tree/master/0732-my-calendar-iii) |
+| [3525-find-x-value-of-array-ii](https://github.com/DineshDev812/LeetCode/tree/main/3525-find-x-value-of-array-ii/) | Hard |
 | [3691-maximum-total-subarray-value-ii](https://github.com/DineshDev812/LeetCode/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Binary Search Tree
 | Problem Name | Difficulty |
