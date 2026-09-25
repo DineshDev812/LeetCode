@@ -185,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0535-encode-and-decode-tinyurl](https://github.com/DineshDev812/LeetCode/tree/master/0535-encode-and-decode-tinyurl) |
 | [0567-permutation-in-string](https://github.com/DineshDev812/LeetCode/tree/master/0567-permutation-in-string) |
 | [0771-jewels-and-stones](https://github.com/DineshDev812/LeetCode/tree/master/0771-jewels-and-stones) |
+| [1096-brace-expansion-ii](https://github.com/DineshDev812/LeetCode/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1189-maximum-number-of-balloons](https://github.com/DineshDev812/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/DineshDev812/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/DineshDev812/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -258,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-distinct-subsequences-ii](https://github.com/DineshDev812/LeetCode/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [1028-recover-a-tree-from-preorder-traversal](https://github.com/DineshDev812/LeetCode/tree/master/1028-recover-a-tree-from-preorder-traversal) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/DineshDev812/LeetCode/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
+| [1096-brace-expansion-ii](https://github.com/DineshDev812/LeetCode/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1108-defanging-an-ip-address](https://github.com/DineshDev812/LeetCode/tree/master/1108-defanging-an-ip-address) |
 | [1143-longest-common-subsequence](https://github.com/DineshDev812/LeetCode/tree/master/1143-longest-common-subsequence) |
 | [1189-maximum-number-of-balloons](https://github.com/DineshDev812/LeetCode/tree/master/1189-maximum-number-of-balloons) |
@@ -548,6 +550,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/DineshDev812/LeetCode/tree/main/0844-backspace-string-compare/) | Easy |
 | [1019-next-greater-node-in-linked-list](https://github.com/DineshDev812/LeetCode/tree/master/1019-next-greater-node-in-linked-list) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/DineshDev812/LeetCode/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
+| [1096-brace-expansion-ii](https://github.com/DineshDev812/LeetCode/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1441-build-an-array-with-stack-operations](https://github.com/DineshDev812/LeetCode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1472-design-browser-history](https://github.com/DineshDev812/LeetCode/tree/master/1472-design-browser-history) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/DineshDev812/LeetCode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
@@ -645,6 +648,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0719-find-k-th-smallest-pair-distance](https://github.com/DineshDev812/LeetCode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/DineshDev812/LeetCode/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1051-height-checker](https://github.com/DineshDev812/LeetCode/tree/master/1051-height-checker) |
+| [1096-brace-expansion-ii](https://github.com/DineshDev812/LeetCode/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1331-rank-transform-of-an-array](https://github.com/DineshDev812/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/DineshDev812/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/DineshDev812/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -681,6 +685,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0077-combinations](https://github.com/DineshDev812/LeetCode/tree/main/0077-combinations/) | Medium |
 | [0079-word-search](https://github.com/DineshDev812/LeetCode/tree/master/0079-word-search) |
 | [0980-unique-paths-iii](https://github.com/DineshDev812/LeetCode/tree/master/0980-unique-paths-iii) |
+| [1096-brace-expansion-ii](https://github.com/DineshDev812/LeetCode/tree/main/1096-brace-expansion-ii/) | Hard |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -863,6 +868,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/DineshDev812/LeetCode/tree/master/0322-coin-change) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/DineshDev812/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0994-rotting-oranges](https://github.com/DineshDev812/LeetCode/tree/main/0994-rotting-oranges/) | Medium |
+| [1096-brace-expansion-ii](https://github.com/DineshDev812/LeetCode/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/DineshDev812/LeetCode/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 ## Graph Theory
 | Problem Name | Difficulty |
