@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/DineshDev812/LeetCode/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1528-shuffle-string](https://github.com/DineshDev812/LeetCode/tree/master/1528-shuffle-string) |
 | [1539-kth-missing-positive-number](https://github.com/DineshDev812/LeetCode/tree/master/1539-kth-missing-positive-number) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/DineshDev812/LeetCode/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/DineshDev812/LeetCode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/DineshDev812/LeetCode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/DineshDev812/LeetCode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1394-find-lucky-integer-in-an-array](https://github.com/DineshDev812/LeetCode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/DineshDev812/LeetCode/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1624-largest-substring-between-two-equal-characters](https://github.com/DineshDev812/LeetCode/tree/master/1624-largest-substring-between-two-equal-characters) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/DineshDev812/LeetCode/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1684-count-the-number-of-consistent-strings](https://github.com/DineshDev812/LeetCode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/DineshDev812/LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/DineshDev812/LeetCode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
@@ -329,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0480-sliding-window-median](https://github.com/DineshDev812/LeetCode/tree/main/0480-sliding-window-median/) | Hard |
 | [0567-permutation-in-string](https://github.com/DineshDev812/LeetCode/tree/master/0567-permutation-in-string) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/DineshDev812/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/DineshDev812/LeetCode/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/DineshDev812/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/DineshDev812/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Binary Search
@@ -344,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0719-find-k-th-smallest-pair-distance](https://github.com/DineshDev812/LeetCode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0732-my-calendar-iii](https://github.com/DineshDev812/LeetCode/tree/master/0732-my-calendar-iii) |
 | [1539-kth-missing-positive-number](https://github.com/DineshDev812/LeetCode/tree/master/1539-kth-missing-positive-number) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/DineshDev812/LeetCode/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/DineshDev812/LeetCode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2540-minimum-common-value](https://github.com/DineshDev812/LeetCode/tree/master/2540-minimum-common-value) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/DineshDev812/LeetCode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -849,6 +853,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0732-my-calendar-iii](https://github.com/DineshDev812/LeetCode/tree/master/0732-my-calendar-iii) |
 | [1480-running-sum-of-1d-array](https://github.com/DineshDev812/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/DineshDev812/LeetCode/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/DineshDev812/LeetCode/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/DineshDev812/LeetCode/tree/master/1732-find-the-highest-altitude) |
 | [3903-smallest-stable-index-i](https://github.com/DineshDev812/LeetCode/tree/main/3903-smallest-stable-index-i/) | Easy |
 | [3904-smallest-stable-index-ii](https://github.com/DineshDev812/LeetCode/tree/main/3904-smallest-stable-index-ii/) | Medium |
