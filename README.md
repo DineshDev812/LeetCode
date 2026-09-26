@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/DineshDev812/LeetCode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1732-find-the-highest-altitude](https://github.com/DineshDev812/LeetCode/tree/master/1732-find-the-highest-altitude) |
 | [1773-count-items-matching-a-rule](https://github.com/DineshDev812/LeetCode/tree/master/1773-count-items-matching-a-rule) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/DineshDev812/LeetCode/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [1816-truncate-sentence](https://github.com/DineshDev812/LeetCode/tree/master/1816-truncate-sentence) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/DineshDev812/LeetCode/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [1833-maximum-ice-cream-bars](https://github.com/DineshDev812/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1624-largest-substring-between-two-equal-characters](https://github.com/DineshDev812/LeetCode/tree/master/1624-largest-substring-between-two-equal-characters) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/DineshDev812/LeetCode/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1684-count-the-number-of-consistent-strings](https://github.com/DineshDev812/LeetCode/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/DineshDev812/LeetCode/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/DineshDev812/LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/DineshDev812/LeetCode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/DineshDev812/LeetCode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
@@ -276,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1684-count-the-number-of-consistent-strings](https://github.com/DineshDev812/LeetCode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/DineshDev812/LeetCode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1773-count-items-matching-a-rule](https://github.com/DineshDev812/LeetCode/tree/master/1773-count-items-matching-a-rule) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/DineshDev812/LeetCode/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/DineshDev812/LeetCode/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [1816-truncate-sentence](https://github.com/DineshDev812/LeetCode/tree/master/1816-truncate-sentence) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/DineshDev812/LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
