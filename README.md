@@ -713,6 +713,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/DineshDev812/LeetCode/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0543-diameter-of-binary-tree](https://github.com/DineshDev812/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/DineshDev812/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0671-second-minimum-node-in-a-binary-tree](https://github.com/DineshDev812/LeetCode/tree/main/0671-second-minimum-node-in-a-binary-tree/) | Easy |
 | [0938-range-sum-of-bst](https://github.com/DineshDev812/LeetCode/tree/master/0938-range-sum-of-bst) |
 | [1028-recover-a-tree-from-preorder-traversal](https://github.com/DineshDev812/LeetCode/tree/master/1028-recover-a-tree-from-preorder-traversal) |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/DineshDev812/LeetCode/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
@@ -785,6 +786,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/DineshDev812/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0543-diameter-of-binary-tree](https://github.com/DineshDev812/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/DineshDev812/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0671-second-minimum-node-in-a-binary-tree](https://github.com/DineshDev812/LeetCode/tree/main/0671-second-minimum-node-in-a-binary-tree/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/DineshDev812/LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/DineshDev812/LeetCode/tree/master/0938-range-sum-of-bst) |
 | [1028-recover-a-tree-from-preorder-traversal](https://github.com/DineshDev812/LeetCode/tree/master/1028-recover-a-tree-from-preorder-traversal) |
@@ -804,6 +806,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/DineshDev812/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0543-diameter-of-binary-tree](https://github.com/DineshDev812/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/DineshDev812/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0671-second-minimum-node-in-a-binary-tree](https://github.com/DineshDev812/LeetCode/tree/main/0671-second-minimum-node-in-a-binary-tree/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/DineshDev812/LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/DineshDev812/LeetCode/tree/master/0938-range-sum-of-bst) |
 | [1028-recover-a-tree-from-preorder-traversal](https://github.com/DineshDev812/LeetCode/tree/master/1028-recover-a-tree-from-preorder-traversal) |
