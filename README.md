@@ -249,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0091-decode-ways](https://github.com/DineshDev812/LeetCode/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/DineshDev812/LeetCode/tree/main/0115-distinct-subsequences/) | Hard |
 | [0392-is-subsequence](https://github.com/DineshDev812/LeetCode/tree/master/0392-is-subsequence) |
+| [0402-remove-k-digits](https://github.com/DineshDev812/LeetCode/tree/main/0402-remove-k-digits/) | Medium |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/DineshDev812/LeetCode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0409-longest-palindrome](https://github.com/DineshDev812/LeetCode/tree/master/0409-longest-palindrome) |
 | [0412-fizz-buzz](https://github.com/DineshDev812/LeetCode/tree/master/0412-fizz-buzz) |
@@ -534,6 +535,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/DineshDev812/LeetCode/tree/master/0011-container-with-most-water) |
+| [0402-remove-k-digits](https://github.com/DineshDev812/LeetCode/tree/main/0402-remove-k-digits/) | Medium |
 | [0409-longest-palindrome](https://github.com/DineshDev812/LeetCode/tree/master/0409-longest-palindrome) |
 | [0649-dota2-senate](https://github.com/DineshDev812/LeetCode/tree/master/0649-dota2-senate) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/DineshDev812/LeetCode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
@@ -562,6 +564,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/DineshDev812/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/DineshDev812/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/DineshDev812/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0402-remove-k-digits](https://github.com/DineshDev812/LeetCode/tree/main/0402-remove-k-digits/) | Medium |
 | [0496-next-greater-element-i](https://github.com/DineshDev812/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0844-backspace-string-compare](https://github.com/DineshDev812/LeetCode/tree/main/0844-backspace-string-compare/) | Easy |
 | [1019-next-greater-node-in-linked-list](https://github.com/DineshDev812/LeetCode/tree/master/1019-next-greater-node-in-linked-list) |
@@ -692,6 +695,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/DineshDev812/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0402-remove-k-digits](https://github.com/DineshDev812/LeetCode/tree/main/0402-remove-k-digits/) | Medium |
 | [0496-next-greater-element-i](https://github.com/DineshDev812/LeetCode/tree/master/0496-next-greater-element-i) |
 | [1019-next-greater-node-in-linked-list](https://github.com/DineshDev812/LeetCode/tree/master/1019-next-greater-node-in-linked-list) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/DineshDev812/LeetCode/tree/master/1944-number-of-visible-people-in-a-queue) |
