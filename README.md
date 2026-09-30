@@ -268,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/DineshDev812/LeetCode/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1096-brace-expansion-ii](https://github.com/DineshDev812/LeetCode/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1108-defanging-an-ip-address](https://github.com/DineshDev812/LeetCode/tree/master/1108-defanging-an-ip-address) |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/DineshDev812/LeetCode/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/DineshDev812/LeetCode/tree/master/1143-longest-common-subsequence) |
 | [1189-maximum-number-of-balloons](https://github.com/DineshDev812/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/DineshDev812/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -564,6 +565,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-next-greater-node-in-linked-list](https://github.com/DineshDev812/LeetCode/tree/master/1019-next-greater-node-in-linked-list) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/DineshDev812/LeetCode/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1096-brace-expansion-ii](https://github.com/DineshDev812/LeetCode/tree/main/1096-brace-expansion-ii/) | Hard |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/DineshDev812/LeetCode/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1441-build-an-array-with-stack-operations](https://github.com/DineshDev812/LeetCode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1472-design-browser-history](https://github.com/DineshDev812/LeetCode/tree/master/1472-design-browser-history) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/DineshDev812/LeetCode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
@@ -1019,6 +1021,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0032-longest-valid-parentheses](https://github.com/DineshDev812/LeetCode/tree/master/0032-longest-valid-parentheses) |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/DineshDev812/LeetCode/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/DineshDev812/LeetCode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/DineshDev812/LeetCode/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 ## Bubble Sort
