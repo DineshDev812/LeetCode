@@ -266,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/DineshDev812/LeetCode/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/DineshDev812/LeetCode/tree/master/0647-palindromic-substrings) |
 | [0649-dota2-senate](https://github.com/DineshDev812/LeetCode/tree/master/0649-dota2-senate) |
+| [0678-valid-parenthesis-string](https://github.com/DineshDev812/LeetCode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0771-jewels-and-stones](https://github.com/DineshDev812/LeetCode/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/DineshDev812/LeetCode/tree/master/0796-rotate-string) |
 | [0824-goat-latin](https://github.com/DineshDev812/LeetCode/tree/master/0824-goat-latin) |
@@ -444,6 +445,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/DineshDev812/LeetCode/tree/master/0509-fibonacci-number) |
 | [0518-coin-change-ii](https://github.com/DineshDev812/LeetCode/tree/master/0518-coin-change-ii) |
 | [0647-palindromic-substrings](https://github.com/DineshDev812/LeetCode/tree/master/0647-palindromic-substrings) |
+| [0678-valid-parenthesis-string](https://github.com/DineshDev812/LeetCode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/DineshDev812/LeetCode/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0877-stone-game](https://github.com/DineshDev812/LeetCode/tree/master/0877-stone-game) |
 | [0940-distinct-subsequences-ii](https://github.com/DineshDev812/LeetCode/tree/main/0940-distinct-subsequences-ii/) | Hard |
@@ -546,6 +548,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/DineshDev812/LeetCode/tree/main/0402-remove-k-digits/) | Medium |
 | [0409-longest-palindrome](https://github.com/DineshDev812/LeetCode/tree/master/0409-longest-palindrome) |
 | [0649-dota2-senate](https://github.com/DineshDev812/LeetCode/tree/master/0649-dota2-senate) |
+| [0678-valid-parenthesis-string](https://github.com/DineshDev812/LeetCode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/DineshDev812/LeetCode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/DineshDev812/LeetCode/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [1833-maximum-ice-cream-bars](https://github.com/DineshDev812/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
@@ -575,6 +578,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/DineshDev812/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0402-remove-k-digits](https://github.com/DineshDev812/LeetCode/tree/main/0402-remove-k-digits/) | Medium |
 | [0496-next-greater-element-i](https://github.com/DineshDev812/LeetCode/tree/master/0496-next-greater-element-i) |
+| [0678-valid-parenthesis-string](https://github.com/DineshDev812/LeetCode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0844-backspace-string-compare](https://github.com/DineshDev812/LeetCode/tree/main/0844-backspace-string-compare/) | Easy |
 | [1019-next-greater-node-in-linked-list](https://github.com/DineshDev812/LeetCode/tree/master/1019-next-greater-node-in-linked-list) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/DineshDev812/LeetCode/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
@@ -1049,6 +1053,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/DineshDev812/LeetCode/tree/main/0020-valid-parentheses/) | Easy |
 | [0032-longest-valid-parentheses](https://github.com/DineshDev812/LeetCode/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/DineshDev812/LeetCode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/DineshDev812/LeetCode/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/DineshDev812/LeetCode/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/DineshDev812/LeetCode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
