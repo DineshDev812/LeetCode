@@ -742,6 +742,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/DineshDev812/LeetCode/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/DineshDev812/LeetCode/tree/main/0515-find-largest-value-in-each-tree-row/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/DineshDev812/LeetCode/tree/master/0543-diameter-of-binary-tree) |
+| [0547-number-of-provinces](https://github.com/DineshDev812/LeetCode/tree/main/0547-number-of-provinces/) | Medium |
 | [0637-average-of-levels-in-binary-tree](https://github.com/DineshDev812/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0669-trim-a-binary-search-tree](https://github.com/DineshDev812/LeetCode/tree/main/0669-trim-a-binary-search-tree/) | Medium |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/DineshDev812/LeetCode/tree/main/0671-second-minimum-node-in-a-binary-tree/) | Easy |
@@ -932,6 +933,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/DineshDev812/LeetCode/tree/master/0322-coin-change) |
 | [0404-sum-of-left-leaves](https://github.com/DineshDev812/LeetCode/tree/main/0404-sum-of-left-leaves/) | Easy |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/DineshDev812/LeetCode/tree/main/0515-find-largest-value-in-each-tree-row/) | Medium |
+| [0547-number-of-provinces](https://github.com/DineshDev812/LeetCode/tree/main/0547-number-of-provinces/) | Medium |
 | [0637-average-of-levels-in-binary-tree](https://github.com/DineshDev812/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0994-rotting-oranges](https://github.com/DineshDev812/LeetCode/tree/main/0994-rotting-oranges/) | Medium |
 | [1096-brace-expansion-ii](https://github.com/DineshDev812/LeetCode/tree/main/1096-brace-expansion-ii/) | Hard |
@@ -940,6 +942,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/DineshDev812/LeetCode/tree/master/0207-course-schedule) |
+| [0547-number-of-provinces](https://github.com/DineshDev812/LeetCode/tree/main/0547-number-of-provinces/) | Medium |
 | [1791-find-center-of-star-graph](https://github.com/DineshDev812/LeetCode/tree/master/1791-find-center-of-star-graph) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/DineshDev812/LeetCode/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Topological Sort
@@ -950,6 +953,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/DineshDev812/LeetCode/tree/master/0200-number-of-islands) |
+| [0547-number-of-provinces](https://github.com/DineshDev812/LeetCode/tree/main/0547-number-of-provinces/) | Medium |
 ## Combinatorics
 | Problem Name | Difficulty |
 | ------- | ------- |
