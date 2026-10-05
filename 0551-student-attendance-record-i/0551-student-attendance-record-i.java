@@ -17,7 +17,7 @@ class Solution {
                 return false;
             
         }
-        System.out.print(absent);
+        // System.out.print(absent);
         return (absent<2)?true:false;
     }
 }
