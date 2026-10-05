@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0950-reveal-cards-in-increasing-order](https://github.com/DineshDev812/LeetCode/tree/master/0950-reveal-cards-in-increasing-order) |
 | [0980-unique-paths-iii](https://github.com/DineshDev812/LeetCode/tree/master/0980-unique-paths-iii) |
 | [0994-rotting-oranges](https://github.com/DineshDev812/LeetCode/tree/main/0994-rotting-oranges/) | Medium |
+| [1002-find-common-characters](https://github.com/DineshDev812/LeetCode/tree/main/1002-find-common-characters/) | Easy |
 | [1019-next-greater-node-in-linked-list](https://github.com/DineshDev812/LeetCode/tree/master/1019-next-greater-node-in-linked-list) |
 | [1046-last-stone-weight](https://github.com/DineshDev812/LeetCode/tree/master/1046-last-stone-weight) |
 | [1051-height-checker](https://github.com/DineshDev812/LeetCode/tree/master/1051-height-checker) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/DineshDev812/LeetCode/tree/master/0567-permutation-in-string) |
 | [0575-distribute-candies](https://github.com/DineshDev812/LeetCode/tree/main/0575-distribute-candies/) | Easy |
 | [0771-jewels-and-stones](https://github.com/DineshDev812/LeetCode/tree/master/0771-jewels-and-stones) |
+| [1002-find-common-characters](https://github.com/DineshDev812/LeetCode/tree/main/1002-find-common-characters/) | Easy |
 | [1096-brace-expansion-ii](https://github.com/DineshDev812/LeetCode/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1189-maximum-number-of-balloons](https://github.com/DineshDev812/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/DineshDev812/LeetCode/tree/master/1331-rank-transform-of-an-array) |
@@ -274,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/DineshDev812/LeetCode/tree/main/0844-backspace-string-compare/) | Easy |
 | [0856-score-of-parentheses](https://github.com/DineshDev812/LeetCode/tree/main/0856-score-of-parentheses/) | Medium |
 | [0940-distinct-subsequences-ii](https://github.com/DineshDev812/LeetCode/tree/main/0940-distinct-subsequences-ii/) | Hard |
+| [1002-find-common-characters](https://github.com/DineshDev812/LeetCode/tree/main/1002-find-common-characters/) | Easy |
 | [1028-recover-a-tree-from-preorder-traversal](https://github.com/DineshDev812/LeetCode/tree/master/1028-recover-a-tree-from-preorder-traversal) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/DineshDev812/LeetCode/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1092-shortest-common-supersequence](https://github.com/DineshDev812/LeetCode/tree/main/1092-shortest-common-supersequence/) | Hard |
