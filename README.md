@@ -753,6 +753,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0637-average-of-levels-in-binary-tree](https://github.com/DineshDev812/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0669-trim-a-binary-search-tree](https://github.com/DineshDev812/LeetCode/tree/main/0669-trim-a-binary-search-tree/) | Medium |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/DineshDev812/LeetCode/tree/main/0671-second-minimum-node-in-a-binary-tree/) | Easy |
+| [0841-keys-and-rooms](https://github.com/DineshDev812/LeetCode/tree/main/0841-keys-and-rooms/) | Medium |
 | [0938-range-sum-of-bst](https://github.com/DineshDev812/LeetCode/tree/master/0938-range-sum-of-bst) |
 | [1028-recover-a-tree-from-preorder-traversal](https://github.com/DineshDev812/LeetCode/tree/master/1028-recover-a-tree-from-preorder-traversal) |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/DineshDev812/LeetCode/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
@@ -943,6 +944,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0515-find-largest-value-in-each-tree-row](https://github.com/DineshDev812/LeetCode/tree/main/0515-find-largest-value-in-each-tree-row/) | Medium |
 | [0547-number-of-provinces](https://github.com/DineshDev812/LeetCode/tree/main/0547-number-of-provinces/) | Medium |
 | [0637-average-of-levels-in-binary-tree](https://github.com/DineshDev812/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0841-keys-and-rooms](https://github.com/DineshDev812/LeetCode/tree/main/0841-keys-and-rooms/) | Medium |
 | [0994-rotting-oranges](https://github.com/DineshDev812/LeetCode/tree/main/0994-rotting-oranges/) | Medium |
 | [1096-brace-expansion-ii](https://github.com/DineshDev812/LeetCode/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/DineshDev812/LeetCode/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
@@ -952,6 +954,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/DineshDev812/LeetCode/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/DineshDev812/LeetCode/tree/main/0547-number-of-provinces/) | Medium |
+| [0841-keys-and-rooms](https://github.com/DineshDev812/LeetCode/tree/main/0841-keys-and-rooms/) | Medium |
 | [1791-find-center-of-star-graph](https://github.com/DineshDev812/LeetCode/tree/master/1791-find-center-of-star-graph) |
 | [1971-find-if-path-exists-in-graph](https://github.com/DineshDev812/LeetCode/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 | [3898-find-the-degree-of-each-vertex](https://github.com/DineshDev812/LeetCode/tree/master/3898-find-the-degree-of-each-vertex) |
