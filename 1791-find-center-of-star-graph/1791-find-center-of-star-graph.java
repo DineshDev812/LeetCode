@@ -5,7 +5,7 @@ class Solution {
         int b=edges[0][1];
         int c=edges[1][0];
         int d=edges[1][1];
-        int ans =0;
+        // int ans =0;
         if(a==c||a==d)
         return a;
         else
