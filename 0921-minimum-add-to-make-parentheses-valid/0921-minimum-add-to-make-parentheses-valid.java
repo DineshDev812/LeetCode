@@ -16,6 +16,6 @@ class Solution {
             else
             close--;
         }
-        return (open-close);
+        return Math.abs(open-close);
     }
 }
