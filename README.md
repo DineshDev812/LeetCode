@@ -262,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/DineshDev812/LeetCode/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/DineshDev812/LeetCode/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/DineshDev812/LeetCode/tree/main/0115-distinct-subsequences/) | Hard |
+| [0131-palindrome-partitioning](https://github.com/DineshDev812/LeetCode/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0290-word-pattern](https://github.com/DineshDev812/LeetCode/tree/main/0290-word-pattern/) | Easy |
 | [0301-remove-invalid-parentheses](https://github.com/DineshDev812/LeetCode/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [0392-is-subsequence](https://github.com/DineshDev812/LeetCode/tree/master/0392-is-subsequence) |
@@ -462,6 +463,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/DineshDev812/LeetCode/tree/main/0115-distinct-subsequences/) | Hard |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/DineshDev812/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/DineshDev812/LeetCode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
+| [0131-palindrome-partitioning](https://github.com/DineshDev812/LeetCode/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/DineshDev812/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/DineshDev812/LeetCode/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/DineshDev812/LeetCode/tree/master/0300-longest-increasing-subsequence) |
@@ -766,6 +768,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0077-combinations](https://github.com/DineshDev812/LeetCode/tree/main/0077-combinations/) | Medium |
 | [0078-subsets](https://github.com/DineshDev812/LeetCode/tree/main/0078-subsets/) | Medium |
 | [0079-word-search](https://github.com/DineshDev812/LeetCode/tree/master/0079-word-search) |
+| [0131-palindrome-partitioning](https://github.com/DineshDev812/LeetCode/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0301-remove-invalid-parentheses](https://github.com/DineshDev812/LeetCode/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [0980-unique-paths-iii](https://github.com/DineshDev812/LeetCode/tree/master/0980-unique-paths-iii) |
 | [1096-brace-expansion-ii](https://github.com/DineshDev812/LeetCode/tree/main/1096-brace-expansion-ii/) | Hard |
