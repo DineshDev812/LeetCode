@@ -512,6 +512,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0728-self-dividing-numbers](https://github.com/DineshDev812/LeetCode/tree/master/0728-self-dividing-numbers) |
 | [0836-rectangle-overlap](https://github.com/DineshDev812/LeetCode/tree/main/0836-rectangle-overlap/) | Easy |
 | [0877-stone-game](https://github.com/DineshDev812/LeetCode/tree/master/0877-stone-game) |
+| [1103-distribute-candies-to-people](https://github.com/DineshDev812/LeetCode/tree/main/1103-distribute-candies-to-people/) | Easy |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/DineshDev812/LeetCode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/DineshDev812/LeetCode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/DineshDev812/LeetCode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
@@ -828,6 +829,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0832-flipping-an-image](https://github.com/DineshDev812/LeetCode/tree/master/0832-flipping-an-image) |
 | [0844-backspace-string-compare](https://github.com/DineshDev812/LeetCode/tree/main/0844-backspace-string-compare/) | Easy |
 | [0950-reveal-cards-in-increasing-order](https://github.com/DineshDev812/LeetCode/tree/master/0950-reveal-cards-in-increasing-order) |
+| [1103-distribute-candies-to-people](https://github.com/DineshDev812/LeetCode/tree/main/1103-distribute-candies-to-people/) | Easy |
 | [1441-build-an-array-with-stack-operations](https://github.com/DineshDev812/LeetCode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1688-count-of-matches-in-tournament](https://github.com/DineshDev812/LeetCode/tree/main/1688-count-of-matches-in-tournament/) | Easy |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/DineshDev812/LeetCode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
