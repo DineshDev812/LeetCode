@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/DineshDev812/LeetCode/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/DineshDev812/LeetCode/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/DineshDev812/LeetCode/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/DineshDev812/LeetCode/tree/main/0055-jump-game/) | Medium |
 | [0056-merge-intervals](https://github.com/DineshDev812/LeetCode/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/DineshDev812/LeetCode/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/DineshDev812/LeetCode/tree/master/0074-search-a-2d-matrix) |
@@ -453,6 +454,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/DineshDev812/LeetCode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/DineshDev812/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/DineshDev812/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0055-jump-game](https://github.com/DineshDev812/LeetCode/tree/main/0055-jump-game/) | Medium |
 | [0062-unique-paths](https://github.com/DineshDev812/LeetCode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/DineshDev812/LeetCode/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/DineshDev812/LeetCode/tree/master/0091-decode-ways) |
@@ -570,6 +572,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/DineshDev812/LeetCode/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/DineshDev812/LeetCode/tree/main/0055-jump-game/) | Medium |
 | [0402-remove-k-digits](https://github.com/DineshDev812/LeetCode/tree/main/0402-remove-k-digits/) | Medium |
 | [0409-longest-palindrome](https://github.com/DineshDev812/LeetCode/tree/master/0409-longest-palindrome) |
 | [0649-dota2-senate](https://github.com/DineshDev812/LeetCode/tree/master/0649-dota2-senate) |
