@@ -176,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3921-score-validator](https://github.com/DineshDev812/LeetCode/tree/master/3921-score-validator) |
 | [3925-concatenate-array-with-reverse](https://github.com/DineshDev812/LeetCode/tree/master/3925-concatenate-array-with-reverse) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/DineshDev812/LeetCode/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
+| [3942-minimum-operations-to-sort-a-permutation](https://github.com/DineshDev812/LeetCode/tree/main/3942-minimum-operations-to-sort-a-permutation/) | Medium |
 | [3982-sum-of-integers-with-maximum-digit-range](https://github.com/DineshDev812/LeetCode/tree/master/3982-sum-of-integers-with-maximum-digit-range) |
 ## Hash Table
 | Problem Name | Difficulty |
