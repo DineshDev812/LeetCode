@@ -1,15 +1,26 @@
 class Solution {
-    public int uniquePaths(int m, int n) {
-        int[] dp=new int[n];
-        Arrays.fill(dp,1);
-        for(int i=1;i<m;i++)
+    public static int f(int[][] dp,int i, int j)
+    {
+        if(i==0 || j==0)
         {
-            for(int j=1;j<n;j++)
-            {
-                dp[j]=dp[j]+dp[j-1];
-            }
-            System.out.println(Arrays.toString(dp));
+            return 1;
         }
-        return dp[n-1];
+        if(i<0 || j<0)
+        return 0;
+        if(dp[i][j]!=-1)
+        return dp[i][j];
+
+        int up=f(dp,i-1,j);
+        int left=f(dp,i,j-1);
+        return dp[i][j]=left+up;
+    }
+    public int uniquePaths(int m, int n) {
+        int[][] dp= new int[m][n];
+        for(int i=0;i<m;i++)
+        {
+            Arrays.fill(dp[i],-1);
+
+        }
+     return  f(dp,m-1,n-1);
     }
 }
